@@ -1,0 +1,39 @@
+---
+Заголовок: ''
+ms.openlocfilehash: 3b244c3598d8abe940350297e2cfb15738bfa23e
+ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "29733905"
+---
+# <a name="during-your-commute"></a><span data-ttu-id="32b3a-102">Во время пути на работу</span><span class="sxs-lookup"><span data-stu-id="32b3a-102">During your Commute</span></span>
+
+![До работы visual](media/ditl_commute.png)
+
+<span data-ttu-id="32b3a-p101">Ежедневно до работы для работы, но у вас нет оставить упрощая работу. В Office 365 можно переместить работы на мобильное устройство и продолжения работы.  Может иметь надежные и производительность пользователей до работы с опыт мобильных устройств.</span><span class="sxs-lookup"><span data-stu-id="32b3a-p101">In the morning, you commute to work but you don't have to leave all your work behind. With Office 365, you can move your work over to your mobile device and continue what you were doing.  You can have a safe and productive commute with our mobile experience.</span></span>  
+
+> [!IMPORTANT]
+> <span data-ttu-id="32b3a-p102">Если дисковод для работы убедитесь, что определение приоритетов безопасности и выполните все движущих закона возможность поездок. Чтобы присоединиться к собранию, выполните не текст или чтение системы обмена сообщениями при работе автомобилей и убедитесь в том, содержащие сведения о важных - по запросу **безопасности**!</span><span class="sxs-lookup"><span data-stu-id="32b3a-p102">If you drive to work, please make sure you prioritize your safety and follow all driving laws that govern distracted driving. Pull over to join a meeting, do not text or read messaging while operating a motor vehicle and make sure you are focused on what's really important - **your safety**!</span></span>
+
+
+## <a name="tools"></a><span data-ttu-id="32b3a-109">Средства</span><span class="sxs-lookup"><span data-stu-id="32b3a-109">Tools</span></span>
+- <span data-ttu-id="32b3a-110">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="32b3a-110">Microsoft Teams</span></span>
+- <span data-ttu-id="32b3a-111">Кабинет</span><span class="sxs-lookup"><span data-stu-id="32b3a-111">Office</span></span> 
+
+## <a name="checklist-for-your-commute"></a><span data-ttu-id="32b3a-112">Контрольный список для пути на работу</span><span class="sxs-lookup"><span data-stu-id="32b3a-112">Checklist for your commute</span></span>
+- <span data-ttu-id="32b3a-113">Переключение звонка на мобильном устройстве</span><span class="sxs-lookup"><span data-stu-id="32b3a-113">Transfer a call to your mobile device</span></span>
+- <span data-ttu-id="32b3a-114">Присоединение к собранию или иметь 1:1 вызов в группами Майкрософт</span><span class="sxs-lookup"><span data-stu-id="32b3a-114">Join a meeting or have a 1:1 call in Microsoft Teams</span></span>
+- <span data-ttu-id="32b3a-115">Подключение к Office 365 с мобильного устройства</span><span class="sxs-lookup"><span data-stu-id="32b3a-115">Connect to Office 365 from your mobile device</span></span>
+ 
+## <a name="transfer-a-call-to-your-mobile-device"></a><span data-ttu-id="32b3a-116">Переключение звонка на мобильном устройстве</span><span class="sxs-lookup"><span data-stu-id="32b3a-116">Transfer a call to your mobile device</span></span>
+<span data-ttu-id="32b3a-p103">Если вы на звонок в группах Майкрософт и нужно сразу приступить к работе, можно переключить звонок на сотовый телефон. Это позволяет "мне нравится" для продолжения беседы без прерываний даже в том случае, если оставить на рабочем месте, но он не позволяет видеть или общий доступ к презентации. Как передача звонка для телефона отправляет беседу в обычной телефонной сети, то могут быть расходов связаны с этой.</span><span class="sxs-lookup"><span data-stu-id="32b3a-p103">If you're on a call in Microsoft Teams and need to get going straight away, it's possible for you to transfer the call to your mobile telephone. This allows us to continue your conversation without interruption even when you have to leave your desk, but it doesn't allow us to see or share the presentation. As transferring a call to your telephone sends the conversation over the normal telephone network, there might be charges associated with this.</span></span>
+
+## <a name="join-a-meeting-or-have-a-11-call-in-microsoft-teams"></a><span data-ttu-id="32b3a-120">Присоединение к собранию или иметь 1:1 вызов в группами Майкрософт</span><span class="sxs-lookup"><span data-stu-id="32b3a-120">Join a meeting or have a 1:1 call in Microsoft Teams</span></span>
+<span data-ttu-id="32b3a-p104">С помощью мобильного приложения для групп Майкрософт можно просмотреть календарь событий.  Если собрание было запланировано с группами Майкрософт появится кнопка «Присоединиться» в мобильных приложений. Осуществляется подключение к собранию с помощью мобильных устройств сети.  Обычный функции, такие как отключить звук, динамик и беседы будет нормально.  Просмотр содержимого могут быть недоступны в зависимости от подключения. Можно также перейдите к другого пользователя из списка контактов в группах и звоните 1:1 с ними напрямую.</span><span class="sxs-lookup"><span data-stu-id="32b3a-p104">Using the mobile app for Microsoft Teams you can view your calendar of events.  If a meeting was scheduled with Microsoft Teams you will see a "Join" button in the mobile app. You will be connected to the meeting using your mobile network.  Normal functions such as mute, speaker and chat will function.  Viewing content may be disabled depending on your connection. You can also navigate to someone from your contact list in Teams and place a 1:1 call with them directly.</span></span> 
+
+## <a name="connect-to-office-365-from-your-mobile-device"></a><span data-ttu-id="32b3a-127">Подключение к Office 365 с мобильного устройства</span><span class="sxs-lookup"><span data-stu-id="32b3a-127">Connect to Office 365 from your mobile device</span></span>
+<span data-ttu-id="32b3a-p105">[Приложения Office 365](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US) доступны для всех основных платформ и их можно использовать для доступа к нашей файлы, расположенные на сайты SharePoint Online или OneDrive для бизнеса. Если организация использует два фактора проверки подлинности, которые могут потребоваться для проверки подлинности по телефону или с приложением проверки подлинности, которые необходимо заранее настроить.</span><span class="sxs-lookup"><span data-stu-id="32b3a-p105">[Office 365 apps](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US) are available for all major platforms, and you can use them to access all our files located on SharePoint Online sites or OneDrive for Business. If your organization uses two factor authentication you may need to authenticate by phone or with the authentication app, which needs to be set up in advance.</span></span>  
+
+> [!NOTE]
+> <span data-ttu-id="32b3a-p106">Обратите внимание, что использование Интернет-компонентов на телефоне, могут вызвать затраты при использовании мобильных устройств сети. Для обеспечения наилучшего взаимодействия и убедитесь, что не требует любых дополнительных расходов следует использовать Wi-Fi, где это возможно.</span><span class="sxs-lookup"><span data-stu-id="32b3a-p106">Be aware that using online features on your phone may incur costs if you are using the mobile network. For the best experience and to ensure that you don't incur any extra costs, you should use Wi-Fi wherever possible.</span></span>
