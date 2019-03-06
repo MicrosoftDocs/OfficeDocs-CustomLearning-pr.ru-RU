@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: Знакомство со страницами приложения SharePoint
 ms.date: 02/15/2019
 description: Сведения о функциональных возможностях страниц приложений SharePoint в настраиваемом учебном обУчении
-ms.openlocfilehash: d92fc37376cfa09a971bb341102efff09b52de65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
+ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103474"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30412303"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Знакомство со страницами приложения SharePoint
 
 Пользовательское обучение предоставляет две страницы приложений SharePoint, которые необходимо знать как администратора настраиваемого обучения. Эти две страницы не являются редактируемыми. 
 
 - Кустомлеарнингадмин. aspx
-- Кустомлеарнингадмин. aspx
+- Кустомлеарнингвиевер. aspx
 
 ## <a name="customlearningadminaspx"></a>Кустомлеарнингадмин. aspx
 
