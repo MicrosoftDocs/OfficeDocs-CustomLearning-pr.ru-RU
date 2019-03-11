@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Просмотр сайта и контента по умолчанию
 ms.date: 02/10/2019
 description: ИзУчите пользовательский сайт обучения и контент по умолчанию
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518191"
+ms.locfileid: "30523043"
 ---
 # <a name="explore-the-custom-learning-site"></a>Изучение настраиваемого сайта обучения
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518191"
 
 1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
 2.  Войдите с помощью имени пользователя и пароля.
-3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365. 
+3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365, а затем выберите сайт. 
 
 ![кг-интродуЦинг. png](media/cg-introducing.png)
 
