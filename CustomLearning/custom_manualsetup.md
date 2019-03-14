@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Самостоятельная установка веб-части
 ms.date: 02/10/2019
 description: Настройка настраиваемых веб-частей вручную для Office 365
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543749"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577855"
 ---
 # <a name="stand-alone-web-part-setup"></a>Самостоятельная установка веб-части
 
@@ -58,10 +58,12 @@ ms.locfileid: "30543749"
 ## <a name="step-6--execute-powershell-configuration-script"></a>Шаг 6: выполнение скрипта настройки PowerShell
 Сценарий `CustomLearningConfiguration.ps1` PowerShell включается для создания трех [свойств клиента](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) , которые использует решение. Кроме того, сценарий создает две [страницы односторонних приложений](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) в библиотеке страниц сайта, чтобы разместить веб-части "Администратор" и "пользователь" в известном расположении.
 
-### <a name="disabling-telemetry-collection"></a>Отключение коллекции телеметрии
-Часть этого решения включает в себя анонимное отслеживание телеметрии, для которого по умолчанию установлено значение Вкл. Если вы выполняете ручную установку и хотите отключить отслеживание телеметрии, измените `CustomlearningConfiguration.ps1` скрипт, чтобы задать для переменной $optInTelemetry значение $false.
+1. Если вы еще не скачали командную консоль SharePoint Online, скачайте ее сейчас. Ознакомьтесь с разГрузкой консоли [управления SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=255251).
+2. Для запуска скрипта может потребоваться настройка политики выполнения PowerShell. Более подробную информацию можно узнать в статье [о политиках выполнения](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+3. Выполнение `CustomLearningConfiguration.ps1` скрипта. В дополнение к учетным данным администратора клиента, сценарий предложит ввести имя клиента и имя сайта. Учитывая следующий пример для URL-адреса сайта, `https://contoso.sharepoint.com/sites/O365CL` `contoso` — это имя клиента и `O365CL` имя сайта. 
 
-Если вы не выполняете ручную установку и хотите отключить отслеживание телеметрии, то при запуске будет отключено `TelemetryOptOut.ps1` отслеживание телеметрии с помощью отдельного сценария.
+### <a name="disabling-telemetry-collection"></a>Отключение коллекции телеметрии
+Часть этого решения включает в себя анонимное отслеживание телеметрии, для которого по умолчанию установлено значение Вкл. Если вы выполняете ручную установку и хотите отключить отслеживание телеметрии, измените `CustomlearningConfiguration.ps1` сценарий так, чтобы переменная $optInTelemetry $false и выполняла сценарий.
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Проверка успешности подготовки и инициализация списка Кустомконфиг
 
