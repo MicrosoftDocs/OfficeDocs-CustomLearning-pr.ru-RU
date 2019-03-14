@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Предварительные требования и решения
 ms.date: 02/10/2019
 description: Решения и сведения о предварительных требованиях для выборочной установки и настройки обучения
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989710"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408842"
 ---
 ## <a name="service-decisions"></a>Решения для служб
 
-После выполнения предварительных условий и до установки необходимо принять следующие решения о имплеменатион CLO365:
+Убедившись, что соблюдены предварительные условия для настраиваемого обучения, необходимо принять следующие решения о вашем имплеменатион:
 
 1. **У вас уже есть учебный портал в вашей компании с современным интерфейсом?**
 
