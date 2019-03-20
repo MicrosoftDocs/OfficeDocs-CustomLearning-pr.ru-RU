@@ -20,26 +20,19 @@
 | 3/5/2019 | [Знакомство со страницами приложения SharePoint](/Office365/CustomLearning/custom_apppages) | изменено |
 
 
-## <a name="week-of-february-04-2019"></a>Неделя с 4 февраля 2019 г.
+## <a name="week-of-march-11-2019"></a>Неделя с 11 марта 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 2/4/2019 | [День жизни в Office 365 — утро кофе](/Office365/CustomLearning/ditl_coffee) | изменено |
-| 2/4/2019 | [День жизни Office 365: сотрудничество с коллегами](/Office365/CustomLearning/ditl_collab) | введен |
-| 2/4/2019 | [# День в жизни в Office 365 — в работе](/Office365/CustomLearning/ditl_commute) | введен |
-| 2/4/2019 | [# День в жизни с Office 365 — подключение через компанию](/Office365/CustomLearning/ditl_connect) | введен |
-| 2/4/2019 | [День жизни Office 365 — собрание в офисе](/Office365/CustomLearning/ditl_meeting) | введен |
-| 2/4/2019 | [# Полезные ссылки для администраторов, использующих пользовательское обучение для Office 365](/Office365/CustomLearning/embeds/for_admins) | введен |
-| 2/4/2019 | [Обзор настраиваемого обучения для Office 365 корпорацией Майкрософт](/Office365/CustomLearning/index) | изменено |
-| 2/4/2019 | [# Лидера по рекомендации по программе — специалист по внедрению служб](/Office365/CustomLearning/champ_education) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программе: сбор отзывов](/Office365/CustomLearning/champ_feedback) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программному обеспечению — Find лидеров](/Office365/CustomLearning/champ_findthem) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программе](/Office365/CustomLearning/champ_getstarted) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программе — руководство по внедрению конечных пользователей (Майкрософт 365)](/Office365/CustomLearning/champ_o365guide) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программе: приСоединяйтесь к программе Office 365 лидеров](/Office365/CustomLearning/champ_o365program) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программному обеспечению — практические рекомендации](/Office365/CustomLearning/champ_realworldguides) | введен |
-| 2/4/2019 | [# Лидера по рекомендации по программе](/Office365/CustomLearning/champ_whyadopt) | введен |
+| 3/11/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | изменено |
+| 3/11/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | изменено |
+| 3/11/2019 | [Настраиваемое обновление обучения](/Office365/CustomLearning/custom_upgrade) | изменено |
+| 3/11/2019 | [Часто заДаваемые вопросы по неСтандартному изУчению решений Office 365](/Office365/CustomLearning/faq) | изменено |
+| 3/12/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
+| 3/13/2019 | [# Внедрение настраиваемого учебного портала](/Office365/CustomLearning/driveadoption) | изменено |
+| 3/13/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | изменено |
+| 3/13/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | изменено |
 
 
 ## <a name="week-of-february-11-2019"></a>Неделя с 11 февраля 2019 г.
