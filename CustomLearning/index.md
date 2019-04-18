@@ -3,11 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: Обзор настраиваемого учебного решения Office 365 Open Source
 ms.date: 02/10/2019
-description: 'Узнайте, как пользовательское обучение для Office 365 может ускорить использование и внедрение Office 365 в вашей организации. Наши решения включают настраиваемую веб-часть SharePoint Online и современный сайт обучения для общения в SharePoint Online, который легко подготовить к работе с клиентом Office 365.'
+description: Узнайте, как пользовательское обучение для Office 365 может ускорить использование и внедрение Office 365 в вашей организации. Наши решения включают настраиваемую веб-часть SharePoint Online и современный сайт обучения для общения в SharePoint Online, который легко подготовить к работе с клиентом Office 365.
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922513"
 ---
-
-# <a name="custom-learning-for-office-365"></a>Пользовательское обучение для Office 365
-Пользовательское обучение для Office 365 (особое обучение) — это настраиваемое решение для обучения по запросу, предназначенное для улучшения использования и внедрения Office 365 в Организации. 
+# <a name="custom-learning-for-office-365-beta-preview"></a>Пользовательское обучение для Office 365 Beta Preview
+Пользовательское обучение для Office 365 Beta Preview — это настраиваемое решение для обучения по запросу, предназначенное для улучшения использования и внедрения Office 365 в Организации.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Пользовательское обучение по требованию от корпорации Майкрософт
 
