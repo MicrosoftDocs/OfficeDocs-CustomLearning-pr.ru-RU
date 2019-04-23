@@ -8,8 +8,8 @@ ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31922513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056224"
 ---
 # <a name="custom-learning-for-office-365-beta-preview"></a>Пользовательское обучение для Office 365 Beta Preview
 Пользовательское обучение для Office 365 Beta Preview — это настраиваемое решение для обучения по запросу, предназначенное для улучшения использования и внедрения Office 365 в Организации.  

@@ -1,20 +1,20 @@
 ---
-Заголовок: ''
+звание: ''
 ms.openlocfilehash: d306c62b264a0198967fedb259db06cf8fe472e9
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733904"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055259"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Символика руководство по программе чемпионатов
+# <a name="real-world-guidance-for-your-champions-program"></a>Практическое руководство по программе лидеров
 
-Просмотрите видеоролики, практические руководства для построения программы чемпионатов.  
+Просмотрите эти видеоролики в настоящем руководстве по созданию программы лидеров.  
 
-Саймон Denton, разработчик архитектуры Business в Mott Мак
+Симон Дентон, бизнес-архитектор в Мотт МакДоналд
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Обсудите Кауфман Pouneh & Буш пользователя Валентины от ИТ-отдела Майкрософт построение программ на чемпионатов в корпорации Майкрософт
+Паунех Кауфман _Амп_ Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

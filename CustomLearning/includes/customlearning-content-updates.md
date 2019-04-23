@@ -3,7 +3,7 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Неделя за 4 марта 2019 г.
+## <a name="week-of-march-04-2019"></a>Неделя с 4 марта 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
@@ -11,13 +11,13 @@
 | 3/5/2019 | [Переход на страницу "пользовательское обучение для Office 365"](/Office365/CustomLearning/custom_addowners) | введен |
 | 3/5/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | введен |
 | 3/5/2019 | [Настраиваемое обновление обучения](/Office365/CustomLearning/custom_upgrade) | введен |
-| 3/5/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
-| 3/5/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/installsitepackage) | изменено |
+| 3/5/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | Изменено |
+| 3/5/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/installsitepackage) | Изменено |
 | 3/5/2019 | Установка настраиваемой веб-части решения для обучения | удалены |
-| 3/5/2019 | [Предварительные требования для установки](/Office365/CustomLearning/prereqs) | изменено |
-| 3/5/2019 | [Предварительные требования и решения](/Office365/CustomLearning/servicedecisions) | изменено |
-| 3/5/2019 | [Просмотр сайта и контента по умолчанию](/Office365/CustomLearning/sitecontent) | изменено |
-| 3/5/2019 | [Знакомство со страницами приложения SharePoint](/Office365/CustomLearning/custom_apppages) | изменено |
+| 3/5/2019 | [Предварительные требования для установки](/Office365/CustomLearning/prereqs) | Изменено |
+| 3/5/2019 | [Предварительные требования и решения](/Office365/CustomLearning/servicedecisions) | Изменено |
+| 3/5/2019 | [Просмотр сайта и контента по умолчанию](/Office365/CustomLearning/sitecontent) | Изменено |
+| 3/5/2019 | [Знакомство со страницами приложения SharePoint](/Office365/CustomLearning/custom_apppages) | Изменено |
 
 
 ## <a name="week-of-march-11-2019"></a>Неделя с 11 марта 2019 г.
@@ -25,65 +25,19 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/11/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | изменено |
-| 3/11/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | изменено |
-| 3/11/2019 | [Настраиваемое обновление обучения](/Office365/CustomLearning/custom_upgrade) | изменено |
-| 3/11/2019 | [Часто заДаваемые вопросы по неСтандартному изУчению решений Office 365](/Office365/CustomLearning/faq) | изменено |
-| 3/12/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
-| 3/13/2019 | [# Внедрение настраиваемого учебного портала](/Office365/CustomLearning/driveadoption) | изменено |
-| 3/13/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | изменено |
-| 3/13/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | изменено |
+| 3/11/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | Изменено |
+| 3/11/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | Изменено |
+| 3/11/2019 | [Настраиваемое обновление обучения](/Office365/CustomLearning/custom_upgrade) | Изменено |
+| 3/11/2019 | [Часто заДаваемые вопросы по неСтандартному изУчению решений Office 365](/Office365/CustomLearning/faq) | Изменено |
+| 3/12/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | Изменено |
+| 3/13/2019 | [# Внедрение настраиваемого учебного портала](/Office365/CustomLearning/driveadoption) | Изменено |
+| 3/13/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/custom_provision) | Изменено |
+| 3/13/2019 | [Самостоятельная установка веб-части](/Office365/CustomLearning/custom_manualsetup) | Изменено |
 
 
-## <a name="week-of-february-11-2019"></a>Неделя с 11 февраля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 2/11/2019 | [# Внедрение настраиваемого учебного портала](/Office365/CustomLearning/driveadoption) | изменено |
-| 2/11/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
-| 2/12/2019 | [Часто заДаваемые вопросы по неСтандартному изУчению решений Office 365](/Office365/CustomLearning/faq) | введен |
-| 2/12/2019 | [Отзывы и поддержка](/Office365/CustomLearning/feedback) | изменено |
-| 2/12/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
-| 2/12/2019 | [Подготовка интерфейса сайта](/Office365/CustomLearning/installsitepackage) | изменено |
-| 2/12/2019 | [Предварительные требования для установки](/Office365/CustomLearning/prereqs) | введен |
-| 2/12/2019 | [Предварительные требования и решения](/Office365/CustomLearning/servicedecisions) | Изменен |
-| 2/12/2019 | [Просмотр сайта и контента по умолчанию](/Office365/CustomLearning/sitecontent) | изменено |
-| 2/12/2019 | [Настройка обучающих интерфейсов](/Office365/CustomLearning/sitesetup) | введен |
-| 2/13/2019 | [Добавление администратора в каталог приложений SharePoint Online](/Office365/CustomLearning/addappadmin) | введен |
-| 2/13/2019 | [Настройка обучающих интерфейсов](/Office365/CustomLearning/customization) | изменено |
-| 2/13/2019 | [Настройка и общий доступ к спискам воспроизведения](/Office365/CustomLearning/customplaylist) | изменено |
-| 2/13/2019 | [Обзор настраиваемого учебного решения Office 365 Open Source](/Office365/CustomLearning/index) | изменено |
-| 2/13/2019 | [Подготовка интерфейса сайта](/Office365/CustomLearning/installsitepackage) | изменено |
-| 2/13/2019 | [Установка настраиваемой веб-части решения для обучения](/Office365/CustomLearning/installwebpart) | изменено |
-| 2/13/2019 | [Предварительные требования для установки](/Office365/CustomLearning/prereqs) | изменено |
-| 2/13/2019 | [Предварительные требования и решения](/Office365/CustomLearning/servicedecisions) | изменено |
-| 2/13/2019 | [Просмотр сайта и контента по умолчанию](/Office365/CustomLearning/sitecontent) | изменено |
-| 2/13/2019 | [Подготовка настраиваемого сайта обучения](/Office365/CustomLearning/installsitepackage) | изменено |
-| 2/13/2019 | [Просмотр сайта и контента по умолчанию](/Office365/CustomLearning/sitecontent) | изменено |
-| 2/14/2019 | [Настройка обучающих интерфейсов](/Office365/CustomLearning/customization) | изменено |
-| 2/15/2019 | [Общие сведения](/Office365/CustomLearning/custom_overview) | введен |
-| 2/15/2019 | [Настройка обучающих интерфейсов](/Office365/CustomLearning/customization) | изменено |
-
-
-## <a name="week-of-february-18-2019"></a>Неделя с 18 февраля 2019 г.
+## <a name="week-of-march-25-2019"></a>Неделя с 25 марта 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 2/19/2019 | [Доступ к настраиваемой странице администрирования обучения](/Office365/CustomLearning/custom_accessadmin) | введен |
-| 2/19/2019 | [Добавление ресурсов в список воспроизведения](/Office365/CustomLearning/custom_addassets) | введен |
-| 2/19/2019 | [Добавление и изменение настраиваемой веб-части обучения](/Office365/CustomLearning/custom_addwebpart) | введен |
-| 2/19/2019 | [Знакомство со страницами приложения SharePoint](/Office365/CustomLearning/custom_apppages) | введен |
-| 2/19/2019 | [Создание новой подкатегории](/Office365/CustomLearning/custom_createnewcat) | введен |
-| 2/19/2019 | [Создание страниц SharePoint для списков воспроизведения](/Office365/CustomLearning/custom_createnewpage) | введен |
-| 2/19/2019 | [Создание новых списков воспроизведения](/Office365/CustomLearning/custom_createnewplaylist) | введен |
-| 2/19/2019 | [Настройка настраиваемого сайта обучения](/Office365/CustomLearning/custom_edithelp) | введен |
-| 2/19/2019 | [Переход на страницу "пользовательское обучение для Office 365"](/Office365/CustomLearning/custom_goto) | введен |
-| 2/19/2019 | [Скрытие и отображение списков воспроизведения](/Office365/CustomLearning/custom_hideshowplaylists) | введен |
-| 2/19/2019 | [Скрытие и отображение подкатегорий](/Office365/CustomLearning/custom_hideshowsub) | введен |
-| 2/19/2019 | [Технология скрытия и отображения](/Office365/CustomLearning/custom_hideshowtech) | введен |
-| 2/19/2019 | [Связывание с настраиваемыми учебными активами](/Office365/CustomLearning/custom_linking) | введен |
-| 2/19/2019 | [Общие сведения](/Office365/CustomLearning/custom_overview) | изменено |
-| 2/19/2019 | [Search](/Office365/CustomLearning/custom_search) | введен |
-| 2/19/2019 | [Где — пользовательская веб-часть обучения](/Office365/CustomLearning/custom_whereiswebpart) | введен |
+| 3/27/2019 | [Настраиваемое обновление обучения](/Office365/CustomLearning/custom_upgrade) | изменено |

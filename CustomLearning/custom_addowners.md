@@ -5,11 +5,11 @@ title: Переход на страницу "пользовательское о
 ms.date: 02/18/2019
 description: Переход на настраиваемый сайт обучения
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411869"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055810"
 ---
 # <a name="add-owners-custom-learning-site"></a>Добавление настраиваемого сайта обучения владельцев
 

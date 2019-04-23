@@ -5,11 +5,11 @@ title: Создание новых списков воспроизведения
 ms.date: 02/18/2019
 description: Создание новых списков воспроизведения
 ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103414"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055858"
 ---
 # <a name="create-a-custom-playlist"></a>Создание настраиваемого списка воспроизведения
 

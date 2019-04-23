@@ -5,11 +5,11 @@ title: Создание новой подкатегории
 ms.date: 02/17/2019
 description: Создание новой подкатегории с настраиваемым обучением
 ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103744"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055458"
 ---
 # <a name="create-a-subcategory"></a>Создание подкатегории 
 В некоторых случаях необходимо создать новую подкатегорию. Например, если подкатегория "первые дни" не подходит для вашей организации, можно создать новую подкатегорию и добавить к ней списки воспроизведения для удовлетворения потребностей Организации. 

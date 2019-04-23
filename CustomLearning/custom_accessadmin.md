@@ -5,11 +5,11 @@ title: Доступ к настраиваемой странице админи�
 ms.date: 02/15/2019
 description: Доступ к настраиваемой странице "Администратор обучения" из веб-части или меню
 ms.openlocfilehash: 11bb2327948aedbc2db83138dd70c3ee76d085b6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103674"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055537"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Доступ к настраиваемой странице администрирования обучения
 

@@ -5,11 +5,11 @@ title: Часто заДаваемые вопросы о партнерах
 ms.date: 3/9/2019
 description: Как пользовательское обучение для Office 365 сравнивается с партнерами из компаний, предоставляющих корпоративные учебные службы?
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523609"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056355"
 ---
 # <a name="partner-frequently-asked-questions"></a>Часто задаваемые вопросы о партнерах
 

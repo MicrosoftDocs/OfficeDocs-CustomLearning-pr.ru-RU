@@ -5,17 +5,17 @@ title: Переход на страницу "пользовательское о
 ms.date: 02/18/2019
 description: Переход на настраиваемый сайт обучения
 ms.openlocfilehash: 3964d77ea207000b2fab0320e5bf2237f6e49e2a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103764"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056185"
 ---
 # <a name="go-to-the-custom-learning-site"></a>Переход на настраиваемый сайт обучения
 
 Пользовательское обучение для Office 365 размещено в вашем клиенте Office 365, поэтому вам потребуется войти в Office 365, чтобы перейти на сайт. Если вы еще не выполнили вход в Office 365, войдите в систему. 
 
-## <a name="sign-in-to-office-365"></a>Вход в Office 365 
+## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
 1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
 2.  Войдите с помощью имени пользователя и пароля.
