@@ -5,11 +5,11 @@ title: Поиск
 ms.date: 02/10/2019
 description: Поиск в неСтандартном учебном обУчении
 ms.openlocfilehash: 0d697c8fb064db482f4eb5db4003ac91164f58ff
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103664"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055048"
 ---
 # <a name="search-for-custom-learning-content"></a>Поиск настраиваемого обучающих материалов
 
