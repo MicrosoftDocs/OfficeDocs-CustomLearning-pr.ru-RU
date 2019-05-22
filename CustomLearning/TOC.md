@@ -24,5 +24,5 @@
 # [Отзывы и поддержка](feedback.md)
 # [Вопросы и ответы](faq.md)
 # [Часто задаваемые вопросы о партнерах](custom_partner.md)
-# [Обновление путей обучения Microsoft 365](custom_upgrade.md)
+# [Обновление путей обучения Microsoft 365](custom_update.md)
 # [Устранение неполадок в Microsoft 365 Learning путей](custom_troubleshooting.md)
