@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Часто задаваемые вопросы о планах обучения Microsoft 365
 ms.date: 02/10/2019
 description: Сведения о часто задаваемых вопросах для путей обучения Microsoft 365
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334723"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636113"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Недавно я видел запись блога, в которой пользовательское обучение для Office 365 переименовывается в пути для обучения Microsoft 365. Добавляются ли в решение другие изменения в ходе переименования? Следует ли мне обновить решение в моей организации?
+
+Выпуск исправлений Microsoft 365 Learning, предназначенный для изменения имени решения в соответствии с фирменной символикой Microsoft 365. Если вы настроили пользовательское обучение для Office 365 в вашей организации, в настоящее время обновление решения не требуется.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Каковы требования для установки Microsoft 365 Learnings в среду клиента?
 
@@ -34,7 +38,7 @@ ms.locfileid: "34334723"
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Какие языки доступны в Microsoft 365 Learning путей?
 
-Пути обучения Microsoft 365 в настоящее время доступны только на английском языке. Автоматическая подготовка к завершению работы работает только с английскими клиентами. Мы планируем развертывание многоязычной поддержки для этих девяти языков в CY19 Q3: 
+Пути обучения Microsoft 365 в настоящее время доступны только на английском языке. Автоматическая подготовка к завершению работы работает только с английскими клиентами. Мы планируем развертывание многоязычной поддержки для этих девяти языков в CY19 Q4: 
 
 - китайский (упрощенное письмо); 
 - Нидерландский (Нидерланды) 
