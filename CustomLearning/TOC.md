@@ -5,7 +5,7 @@
 ## [Самостоятельная установка веб-части](custom_manualsetup.md)
 # [Центр успешности администрирования](custom_successcenter.md)
 ## [Обновления содержимого за Ноябрь](custom_contentupdates.md)
-## [Управление обновлениями контента](custom_managecontentupdates.md)
+## [Управление обновлениями контента](custom_contentupdatesmanage.md)
 ## [Обновления компонентов за Ноябрь](custom_featureupdates.md)
 ## [Планирование обучающих материалов](custom_plancontent.md)
 ## [Настройка путей обучения](custom_overview.md)
