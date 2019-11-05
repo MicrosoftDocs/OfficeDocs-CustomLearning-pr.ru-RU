@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Параметры установки Microsoft 365 Learning путей
 ms.date: 02/11/2019
 description: Параметр установки для настройки настраиваемого обучения
-ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334708"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956656"
 ---
 # <a name="learning-pathways-setup-options"></a>Параметры установки путей обучения
 Пути для обучения обеспечивают гибкость для настройки решения несколькими различными способами. В следующих разделах описаны доступные варианты.
 
 > [!IMPORTANT]
-> По отношению к 5/21/2019 Корпорация Майкрософт 365 представляет собой новое имя решения, которое ранее называлось "пользовательское обучение для Office 365". Если вы уже предстроили пользовательское обучение для Office 365 в вашей организации и хотите обновить решение, следуйте инструкциям в статье "Обновление решения" в [файле readme путей обучения Microsoft 365](https://github.com/pnp/custom-learning-office-365). Если вы впервые готовите планы обучения корпорации Майкрософт 365, ознакомьтесь с [инструкциями по подготовке путей обучения microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) в документации по Microsoft 365 Learnings.  
+> Если вы уже предстроили пользовательское обучение для Office 365 в вашей организации и хотите обновить решение, следуйте инструкциям в статье "Обновление решения" в [файле readme путей обучения Microsoft 365](https://github.com/pnp/custom-learning-office-365). Если вы впервые готовите планы обучения корпорации Майкрософт 365, ознакомьтесь с [инструкциями по подготовке путей обучения microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) в документации по Microsoft 365 Learnings.  
 
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Рекомендуемые — Настройка службы подготовки SharePoint Online 
@@ -29,6 +29,6 @@ ms.locfileid: "34334708"
 - Инструкции по установке веб-частей вручную приведены в разделе Просмотр [установки веб-части вручную](custom_manualsetup.md). 
 
 ## <a name="update-learning-pathways"></a>Обновление путей для обучения
-Организации, которые использовали службу подготовки SharePoint Online для установки более ранних версий Microsoft 365 Learning-путей, ранее именуемых пользовательским обучением для Office 365, могут обновить решение до последней версии. Инструкции по проверке версии, развернутой в последней версии решения, а также инструкции по обновлению решения представлены в разделе "Обновление решения" [файла readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
+Организации, которые использовали службу подготовки SharePoint Online для установки более ранних версий Microsoft 365 Learning-путей, могут обновить решение до последней версии. Инструкции по проверке версии, развернутой в последней версии решения, а также инструкции по обновлению решения представлены в разделе "Обновление решения" [файла readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustomprovisionmd"></a>Дальнейшие действия: [Подготовка путей обучения Microsoft 365](custom_provision.md)
+### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>Дальнейшие действия: [Подготовка путей обучения Microsoft 365](custom_provision.md)

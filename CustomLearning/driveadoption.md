@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886982"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956646"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Внедрение портала по внедрению ваших путей обучения
 После того как вы настроили планы обучения Microsoft 365 и разрешили первоначальные обучающие кампании, вы научитесь получать информацию о том, как вы вернетесь к учебным курсам Microsoft 365 о текущем изучении и преобразовании. Вы можете использовать рекомендации, набор для внедрения и рекомендации, которые корпорация Майкрософт представила для выполнения успешных кампаний по внедрению Microsoft 365 Learning, рекомендации, рекомендации и набор для внедрения. 
@@ -31,8 +31,8 @@ ms.locfileid: "37886982"
 - Общий доступ к сайтам и содержимому
 - Подключение Организации к Yammer
 
-## <a name="use-the-download-adoption-kit"></a>Использование комплекта для внедрения
-Чтобы помочь вам выполнить свою кампанию по связи Microsoft 365 Learning, используйте загружаемый комплект для перехода. Он содержит: 
+## <a name="use-the-downloadable-adoption-kit"></a>Использование скачанного комплекта для перехода
+Чтобы помочь вам выполнить свою кампанию по связи Microsoft 365 Learning, используйте [загружаемый комплект для перехода](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Он содержит: 
 
 - Microsoft 365 Learning путей рекомендуемый календарь кампании по связи для планирования кампании
 - Запуск конечного пользователя и советы шаблоны электронной почты для каждого из пяти сценариев Microsoft 365.    
