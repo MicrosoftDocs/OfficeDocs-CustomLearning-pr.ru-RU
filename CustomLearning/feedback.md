@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Отзывы и поддержка
 ms.date: 02/10/2019
 description: Сведения о отзывах и поддержке для путей обучения Microsoft 365
-ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: f54684839086fd1cd11d5061dd34d3fe6ab8adf7
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956636"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076003"
 ---
 # <a name="feedback-and-support"></a>Отзывы и поддержка
 
@@ -23,7 +23,7 @@ Microsoft 365 Learning путей это проект с открытым код
 
 ## <a name="provide-us-feedback"></a>Отправьте нам отзыв
 
-Наше решение является успешным, только если оно позволяет бизнес-результаты.  Помогите нам улучшить ее, предоставляя регулярную обратную связь с помощью [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Мы регулярно просматривая все свои комментарии и вопросы. 
+Наше решение является успешным, только если оно позволяет бизнес-результаты.  Помогите нам улучшить ее, предоставляя регулярную обратную связь с помощью [UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552).  Мы регулярно просматривая все свои комментарии и вопросы. 
 
 ## <a name="usage-questions"></a>Вопросы по использованию
 
