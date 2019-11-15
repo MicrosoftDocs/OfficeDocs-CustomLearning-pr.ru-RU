@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Обзор путей обучения Microsoft 365
 ms.date: 10/23/2019
 description: Узнайте, как пути обучения Майкрософт 365 могут ускорить использование и внедрение служб Microsoft 365 в вашей организации. Обучающие пути включают настраиваемую веб-часть SharePoint Online и современный сайт обучения для общения в SharePoint Online, который легко подготовить к работе с клиентом Microsoft 365.
-ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
+ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956594"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38626619"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Пути для обучения Microsoft 365 
 Microsoft 365 Learning путей это настраиваемое решение для обучения по запросу, разработанное для улучшения использования и внедрения служб Microsoft 365 в вашей организации.   
@@ -23,7 +23,7 @@ Microsoft 365 Learning путей предлагает:
 - **Возможность создавать собственные списки воспроизведения для обучения** с помощью путей обучения позволяет создавать целевые списки воспроизведения для удовлетворения уникальных потребностей в среде.
 - **Актуальные** пути обучения контента предоставляют контент через каталог содержимого Microsoft Online, поэтому контент сайта регулярно обновляется.
 
-![кг-интродуЦинг. png](media/cg-introducing.png)
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-online-provisioning-service"></a>Служба подготовки SharePoint Online 
 Пути для обучения можно подготовить из службы подготовки SharePoint Online. Когда подготовка путей обучения Microsoft 365 выполнена, организациям предоставляется сайт для обмена данными в SharePoint Online, разработанный как готовый обучающий портал, а также веб-часть "пути для обучения", подключенную к интерактивному каталогу обучающих материалов. 
