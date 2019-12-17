@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Часто задаваемые вопросы о планах обучения Microsoft 365
 ms.date: 02/10/2019
 description: Сведения о часто задаваемых вопросах для путей обучения Microsoft 365
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636113"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068820"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -38,7 +38,7 @@ ms.locfileid: "35636113"
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Какие языки доступны в Microsoft 365 Learning путей?
 
-Пути обучения Microsoft 365 в настоящее время доступны только на английском языке. Автоматическая подготовка к завершению работы работает только с английскими клиентами. Мы планируем развертывание многоязычной поддержки для этих девяти языков в CY19 Q4: 
+Пути обучения Microsoft 365 в настоящее время доступны только на английском языке. Автоматическая подготовка к завершению работы работает только с английскими клиентами. Мы планируем развертывание многоязычной поддержки для этих девяти языков в первом квартале 2020. 
 
 - китайский (упрощенное письмо); 
 - Нидерландский (Нидерланды) 
