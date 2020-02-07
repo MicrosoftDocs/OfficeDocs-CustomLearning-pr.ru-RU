@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Обзор путей обучения Microsoft 365
 ms.date: 10/23/2019
 description: Узнайте, как пути обучения Майкрософт 365 могут ускорить использование и внедрение служб Microsoft 365 в вашей организации. Обучающие пути включают настраиваемую веб-часть SharePoint Online и современный сайт обучения для общения в SharePoint Online, который легко подготовить к работе с клиентом Microsoft 365.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626619"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831895"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Пути для обучения Microsoft 365 
-Microsoft 365 Learning путей это настраиваемое решение для обучения по запросу, разработанное для улучшения использования и внедрения служб Microsoft 365 в вашей организации.   
+Microsoft 365 Learning путей это настраиваемое решение для обучения по запросу, разработанное для улучшения использования и внедрения служб Microsoft 365 в вашей организации.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Пользовательское обучение по требованию от корпорации Майкрософт
 
