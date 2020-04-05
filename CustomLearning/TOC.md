@@ -3,11 +3,14 @@
 ## [Подготовка схем обучения Microsoft 365](custom_provision.md)
 ## [Знакомство с сайтом схем обучения Microsoft 365](custom_exploresite.md)
 ## [Настройка отдельной веб-части](custom_manualsetup.md)
-# [Центр успеха администраторов](custom_successcenter.md)
-## [Обновление содержимого за ноябрь](custom_contentupdates.md)
+# Новые возможности 
+## [Обновление содержимого](custom_contentupdates.md) 
 ## [Управление обновлением содержимого](custom_contentupdatesmanage.md)
-## [Обновление компонентов за ноябрь](custom_featureupdates.md)
-## [Планирование учебного контента](custom_plancontent.md)
+## [Обновления компонентов](custom_featureupdates.md)
+# [Центр успеха администраторов](custom_successcenter.md)
+## Планирование учебного контента 
+### [Планирование учебного контента](custom_plancontent.md)
+### [Ресурсы для поддержки удаленных сотрудников](custom_plancontent_remoteresources.md)
 ## [Настройка схем обучения](custom_overview.md)
 ### [Переход на сайт схем обучения Microsoft 365](custom_goto.md)
 ### [Настройка сайта](custom_edithelp.md)
