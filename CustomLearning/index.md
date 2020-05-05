@@ -11,7 +11,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/03/2020
 ms.locfileid: "43141402"
 ---
-# <a name="microsoft-365-learning-pathways"></a>Пути для обучения Microsoft 365 
+# <a name="microsoft-365-learning-pathways"></a>Схемы обучения Microsoft 365 
 Microsoft 365 Learning путей это настраиваемое решение для обучения по запросу, разработанное для улучшения использования и внедрения служб Microsoft 365 в вашей организации.    
 
 > [!IMPORTANT]

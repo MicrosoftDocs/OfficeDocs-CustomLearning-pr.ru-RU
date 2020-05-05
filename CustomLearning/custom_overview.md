@@ -1,9 +1,9 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Настройка путей обучения
+title: Настройка схем обучения
 ms.date: 02/18/2019
-description: Настройка путей обучения
+description: Настройка схем обучения
 ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
 ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
@@ -11,7 +11,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 10/30/2019
 ms.locfileid: "37886642"
 ---
-# <a name="customize-learning-pathways"></a>Настройка путей обучения
+# <a name="customize-learning-pathways"></a>Настройка схем обучения
 
 Microsoft 365 Learning путей предоставляет различные способы настройки контента для Организации. Например, вы можете:  
 - Изменение сайта SharePoint "пути для обучения" — изменение имени сайта, логотипа и его имени. Измените страницу Ask вопросы и получение справки, чтобы создать собственный центр справки. 

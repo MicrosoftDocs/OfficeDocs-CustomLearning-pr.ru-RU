@@ -11,7 +11,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 10/21/2019
 ms.locfileid: "34327280"
 ---
-# <a name="link-to-learning-pathways-content"></a>Ссылка на материалы для обучения
+# <a name="link-to-learning-pathways-content"></a>Ссылка на содержимое схем обучения
 
 С помощью путей обучения существует два способа связи с контентом:
 

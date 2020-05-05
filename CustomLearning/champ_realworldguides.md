@@ -15,6 +15,6 @@ ms.locfileid: "32055259"
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Паунех Кауфман _Амп_ Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт
+Паунех Кауфман & Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

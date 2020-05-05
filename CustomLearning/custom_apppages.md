@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Знакомство со страницами приложения SharePoint
+title: Знакомство со страницами приложений в SharePoint
 ms.date: 02/15/2019
 description: Сведения о функциональных возможностях страниц приложений SharePoint в планах обучения Microsoft 365
 ms.openlocfilehash: fa0dc543e0f2302015a587040caf4bd09fe561ba
@@ -11,7 +11,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 10/30/2019
 ms.locfileid: "37886919"
 ---
-# <a name="get-to-know-the-sharepoint-application-pages"></a>Знакомство со страницами приложения SharePoint
+# <a name="get-to-know-the-sharepoint-application-pages"></a>Знакомство со страницами приложений в SharePoint
 
 Обучающие пути — это две страницы приложений SharePoint, которые необходимо знать как администратора. Эти две страницы не являются изменяемыми и не должны удаляться. 
 

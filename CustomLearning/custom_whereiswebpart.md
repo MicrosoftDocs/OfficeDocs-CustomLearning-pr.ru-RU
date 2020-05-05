@@ -11,7 +11,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/04/2019
 ms.locfileid: "37956565"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Где находится веб-часть "пути для обучения Microsoft 365"? 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Расположение веб-части схем обучения Microsoft 365 
 
 При подготовке путей изучения в Организации в клиенте SharePoint организации добавляется сайт путей обучения и веб-часть. В процессе подготовки веб-части обучения Microsoft 365 можно добавить на следующие страницы сайта путей обучения Microsoft 365:
 

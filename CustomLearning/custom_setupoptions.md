@@ -31,4 +31,4 @@ ms.locfileid: "37956656"
 ## <a name="update-learning-pathways"></a>Обновление путей для обучения
 Организации, которые использовали службу подготовки SharePoint Online для установки более ранних версий Microsoft 365 Learning-путей, могут обновить решение до последней версии. Инструкции по проверке версии, развернутой в последней версии решения, а также инструкции по обновлению решения представлены в разделе "Обновление решения" [файла readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>Дальнейшие действия: [Подготовка путей обучения Microsoft 365](custom_provision.md)
+### <a name="next-steps---provision-microsoft-365-learning-pathways"></a>Дальнейшие действия: [Подготовка путей обучения Microsoft 365](custom_provision.md)

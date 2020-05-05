@@ -11,11 +11,11 @@ ms.locfileid: "32056465"
 
 ## <a name="links-for-this-solution"></a>Ссылки для этого решения
 
-- [ПользовательСкое обучение](https://docs.microsoft.com/office365/customlearning) Страницы сведений о службеhttps://docs.microsoft.com/office365/customlearning
+- [Пользовательское обучение](https://docs.microsoft.com/office365/customlearning) Страницы сведений о службеhttps://docs.microsoft.com/office365/customlearning
 - Форум обратной связи по средствам внедрения на UserVoicehttps://aka.ms/AdoptionFeedback 
 
 ## <a name="links-for-adoption-success-owners"></a>Ссылки для владельцев успеха при внедрении
-- [Сообщество](https://aka.ms/DriveAdoption) по внедрению Форум технического сообщества Майкрософт (https://aka.ms/DriveAdoption)
+- [Сообщество по внедрению](https://aka.ms/DriveAdoption) Форум технического сообщества Майкрософт (https://aka.ms/DriveAdoption)
 - Программа Office 365 лидера поhttps://aka.ms/O365Champions 
 
 ## <a name="links-for-office-365-administrators"></a>Ссылки для администраторов Office 365

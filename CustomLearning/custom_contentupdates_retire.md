@@ -37,7 +37,7 @@ ms.locfileid: "43142215"
 - Outlook Mobile: люди и подключения (5 ресурсов)
 - Outlook Mobile: Поиск и совместное использование (4 средства)
 
-## <a name="onedrive"></a>OneDrive;
+## <a name="onedrive"></a>OneDrive
 Следующие видеоресурсы были добавлены в OneDrive. 
 - Настройка iPhone или iPad, добавленного к списку "Введение в OneDrive"
 - Включение резервного копирования OneDrive добавлено к папке "Управление файлами с помощью списка воспроизведения OneDrive"
@@ -55,7 +55,7 @@ ms.locfileid: "43142215"
 - Создание более доступных книг Excel (3 средства)
 - Создание более доступных слайдов в PowerPoint (5 активов)
 
-## <a name="onedrive"></a>OneDrive;
+## <a name="onedrive"></a>OneDrive
 Примечание: изменения необходимо добавить здесь.....
 
 ## <a name="sway"></a>Sway

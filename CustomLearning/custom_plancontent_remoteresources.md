@@ -21,7 +21,7 @@ ms.locfileid: "43142212"
 
 ## <a name="top-resources-from-microsoft-for-supporting-your-remote-workforce"></a>Лучшие ресурсы Майкрософт для поддержки удаленных сотрудников
 Для поддержки удаленных рабочих процессов можно создать целевую страницу на сайте SharePoint для путей обучения. Вы также можете добавить ресурсы на существующую страницу поддержки для удаленных рабочих процессов. Ниже приведен список некоторых основных ресурсов корпорации Майкрософт для поддержки удаленной работы в Организации. 
-- [Развертывание Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
+- [Как выполнить развертывание Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
 - [Собрания и конференции в Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
 - [Поддержка удаленных рабочих процессов с помощью Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)
 - [Вопросы и ответы: поддержка удаленных сотрудников](https://docs.microsoft.com/en-us/microsoftteams/faq-support-remote-workforce)
