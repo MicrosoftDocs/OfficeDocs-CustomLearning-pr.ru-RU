@@ -7,14 +7,14 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32055259"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a><span data-ttu-id="13b6a-102">Практическое руководство по программе лидеров</span><span class="sxs-lookup"><span data-stu-id="13b6a-102">Real World Guidance for your Champions Program</span></span>
+# <a name="real-world-guidance-for-your-champions-program"></a><span data-ttu-id="ce567-102">Практическое руководство по программе лидеров</span><span class="sxs-lookup"><span data-stu-id="ce567-102">Real World Guidance for your Champions Program</span></span>
 
-<span data-ttu-id="13b6a-103">Просмотрите эти видеоролики в настоящем руководстве по созданию программы лидеров.</span><span class="sxs-lookup"><span data-stu-id="13b6a-103">View these videos of real world guidance for building your Champions program.</span></span>  
+<span data-ttu-id="ce567-103">Просмотрите эти видеоролики в настоящем руководстве по созданию программы лидеров.</span><span class="sxs-lookup"><span data-stu-id="ce567-103">View these videos of real world guidance for building your Champions program.</span></span>  
 
-<span data-ttu-id="13b6a-104">Симон Дентон, бизнес-архитектор в Мотт МакДоналд</span><span class="sxs-lookup"><span data-stu-id="13b6a-104">Simon Denton, Business Architect at Mott MacDonald</span></span>
+<span data-ttu-id="ce567-104">Симон Дентон, бизнес-архитектор в Мотт МакДоналд</span><span class="sxs-lookup"><span data-stu-id="ce567-104">Simon Denton, Business Architect at Mott MacDonald</span></span>
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-<span data-ttu-id="13b6a-105">Паунех Кауфман _Амп_ Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт</span><span class="sxs-lookup"><span data-stu-id="13b6a-105">Pouneh Kaufman & Sara Bush from Microsoft IT discuss building a Champions program at Microsoft</span></span>
+<span data-ttu-id="ce567-105">Паунех Кауфман & Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт</span><span class="sxs-lookup"><span data-stu-id="ce567-105">Pouneh Kaufman & Sara Bush from Microsoft IT discuss building a Champions program at Microsoft</span></span>
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]
