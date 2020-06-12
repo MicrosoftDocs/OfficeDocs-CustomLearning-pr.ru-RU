@@ -5,12 +5,12 @@ title: Обзор
 ms.date: 06/06/2020
 description: Многоязыковая поддержка для путей обучения
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699140"
+ms.locfileid: "44704625"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Многоязыковая поддержка для путей обучения
 
@@ -26,7 +26,7 @@ ms.locfileid: "44699140"
 - Русский (Русский)
 - Spanish
 
-Многоязыковая поддержка для путей обучения поддерживается многоязычным компонентом SharePoint Online для сайтов связи SharePoint Online. 
+Многоязыковая поддержка для путей обучения поддерживается многоязычным компонентом SharePoint Online для сайтов связи SharePoint Online.  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>Знакомство с многоязычной функцией SharePoint Online
 С помощью многоязыковой поддержки SharePoint Online можно предоставлять переведенные страницы, записи новостей и элементы пользовательского интерфейса на предпочитаемом языке пользователя. Прежде чем приступать к работе, уделите некоторое время, чтобы узнать, как работает многоязычная поддержка. 
