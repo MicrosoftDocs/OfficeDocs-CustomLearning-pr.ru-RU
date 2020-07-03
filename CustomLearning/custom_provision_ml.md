@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Подготовка нового многоязычного сайта для образовательных путей
+title: Подготовка нового многоязыкового решения для образовательных путей
 ms.date: 02/10/2019
 description: Подготовка сайта для обучения Microsoft 365 с помощью службы подготовки SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699143"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031715"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>Подготовка нового многоязычного сайта для образовательных путей
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Подготовка нового многоязыкового решения для образовательных путей
 Организации, у которых нет путей обучения, уже подготовленных в своем клиенте, могут добавить решение многоязычных путей обучения в клиент. При использовании этого параметра шаблон "обучающие пути SharePoint" преобразуется на девять языков и может использоваться с минимальным количеством изменений. 
 
 > [!IMPORTANT]
