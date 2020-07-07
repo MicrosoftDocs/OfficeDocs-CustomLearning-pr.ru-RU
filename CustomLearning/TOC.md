@@ -1,12 +1,18 @@
-# [Начало работы](index.md)
-## [Параметры настройки схем обучения Microsoft 365](custom_setupoptions.md)
-## [Подготовка схем обучения Microsoft 365](custom_provision.md)
+# [Начало работы](index.md)  
+## [Параметры настройки схем обучения](custom_setupoptions.md)
+## [Подготовка схем обучения](custom_provision.md)
+## [Обновление схем обучения](custom_update.md)
+## [Настройка вручную](custom_manualsetup.md)
 ## [Знакомство с сайтом схем обучения Microsoft 365](custom_exploresite.md)
-## [Настройка отдельной веб-части](custom_manualsetup.md)
-# Новые возможности 
+# Что нового 
 ## [Обновление содержимого](custom_contentupdates.md) 
 ## [Управление обновлением содержимого](custom_contentupdatesmanage.md)
 ## [Обновления компонентов](custom_featureupdates.md)
+# Поддержка нескольких языков
+## [Поддержка нескольких языков для схем обучения](custom_overview_ml.md)
+## [Перевод страниц сайта](custom_translate_page_ml.md)
+## [Перевод пользовательских плейлистов схем обучения](custom_translate_pl_ml.md)
+## [Перевод имени сайта, навигации и нижнего колонтитула](custom_sitenamenav_ml.md)
 # [Центр успеха администраторов](custom_successcenter.md)
 ## Планирование учебного контента 
 ### [Планирование учебного контента](custom_plancontent.md)
