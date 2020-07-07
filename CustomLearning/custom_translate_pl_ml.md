@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Преобразование пользовательских списков воспроизведения в обучающие материалы
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Преобразование пользовательских списков воспроизведения в обучающие материалы
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039009"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048137"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Преобразование пользовательских списков воспроизведения в обучающие материалы
 С помощью путей обучения работа с настраиваемыми списками воспроизведения зависит от способа настройки путей обучения.  
@@ -137,5 +135,5 @@ ms.locfileid: "45039009"
 3. Сделайте перевод страницы, а затем нажмите кнопку **опубликовать**.   
 
 ## <a name="for-more-information"></a>Дополнительные сведения
-- Дополнительные сведения о настройке путей обучения приведены в разделе [Настройка путей обучения](custom_overview.md).  
+- Дополнительные сведения о настройке путей обучения приведены в разделе [Настройка путей обучения](custom_overview.md). 
 

@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Обучающие пути Настройка вручную
+title: Обучение путей ручной установки для ML
 ms.date: 02/10/2019
 description: Обучающие пути Настройка вручную
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038979"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043281"
 ---
-# <a name="learning-pathways-manual-setup"></a>Обучающие пути Настройка вручную
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Обучение путей ручной установки для многоязычной среды
 
 Microsoft 365 Learning путей предоставляет ручную настройку для организаций, которым необходима поддержка одного из следующих сценариев:
 
