@@ -7,7 +7,7 @@ description: Параметры настройки для межязыковых
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 2e2e7a765a7d24ef83a04f0ca3ef6d049cc658e3
 ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/04/2020
 ms.locfileid: "45037221"

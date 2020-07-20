@@ -7,7 +7,7 @@ description: Скрытие и отображение списков воспр�
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: b2c45203d5237fd101e2a099dae826994787ac1b
 ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/11/2020
 ms.locfileid: "44699127"
