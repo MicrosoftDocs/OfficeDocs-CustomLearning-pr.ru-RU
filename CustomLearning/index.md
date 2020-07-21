@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Обзор путей обучения Microsoft 365
 ms.date: 7/6/2020
 description: Узнайте, как пути обучения Майкрософт 365 могут ускорить использование и внедрение служб Microsoft 365 в вашей организации. Обучающие пути включают настраиваемую веб-часть SharePoint Online и современный сайт обучения для общения в SharePoint Online, который легко подготовить к работе с клиентом Microsoft 365.
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043241"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199349"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Схемы обучения Microsoft 365 
 Microsoft 365 Learning путей это настраиваемое решение для обучения по запросу, разработанное для улучшения использования и внедрения служб Microsoft 365 в вашей организации.    
@@ -17,7 +17,7 @@ Microsoft 365 Learning путей это настраиваемое решени
 > [!IMPORTANT]
 > В ответ на Отзывы клиентов, обучающие пути теперь обеспечивают многоязычную поддержку для девяти языков. Сведения и инструкции по включению поддержки многоязычной поддержки для путей обучения можно прочитать в следующих разделах: 
 >- [Обзор многоязыковой поддержки для путей обучения](custom_overview_ml.md) 
->- [Параметры настройки для путей обучения](custom_setupoptions.md)  
+>- [Параметры настройки схем обучения](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Пользовательское обучение по требованию от корпорации Майкрософт
 
@@ -30,8 +30,8 @@ Microsoft 365 Learning путей предлагает:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>Служба подготовки SharePoint Online 
-Пути для обучения можно подготовить из службы подготовки SharePoint Online. Когда подготовка путей обучения Microsoft 365 выполнена, организациям предоставляется сайт для обмена данными в SharePoint Online, разработанный как готовый обучающий портал, а также веб-часть "пути для обучения", подключенную к интерактивному каталогу обучающих материалов. 
+## <a name="sharepoint-look-book-service"></a>Служба поиска книг SharePoint
+Пути для обучения можно подготовить к работе со службой "Поиск книг SharePoint". Когда подготовка путей обучения Microsoft 365 выполнена, организациям предоставляется сайт для обмена данными в SharePoint Online, разработанный как готовый обучающий портал, а также веб-часть "пути для обучения", подключенную к интерактивному каталогу обучающих материалов. 
 
 ![cg-provision.png](media/cg-provision.png)
 
