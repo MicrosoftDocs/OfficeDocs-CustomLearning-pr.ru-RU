@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Создание страниц SharePoint для списков воспроизведения
 ms.date: 02/10/2019
 description: Создание страниц SharePoint для списков воспроизведения
-ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247544"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234511"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Создание страниц SharePoint для настраиваемых списков воспроизведения
 
@@ -22,7 +23,7 @@ ms.locfileid: "34247544"
 3. В левом столбце нажмите кнопку + и выберите веб-часть **внедрить** . 
 4. В правом столбце щелкните +, а затем щелкните веб-часть " **текст** ". Страница должна выглядеть так, как показано ниже.
 
-![кг-паженевстарт. png](media/cg-pagenewstart.png)
+![cg-pagenewstart.png](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Добавление видео и текста из YouTube
 
@@ -35,7 +36,7 @@ ms.locfileid: "34247544"
 7. Выберите значок **Изменить веб-часть** в области заголовка страницы SharePoint, а затем назовите страницу "пользовательское представление списка". 
 8. В **раскладке**выберите **простой**, а затем закройте область свойства **области заголовка** . Теперь страница должна выглядеть примерно так, как показано ниже. 
 
-![кг-паженевфиниш. png](media/cg-pagenewfinish.png)
+![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Публикация страницы
 

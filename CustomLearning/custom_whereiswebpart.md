@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Где находится веб-часть обучения Microsoft 365
 ms.date: 02/15/2019
 description: Сведения о том, где на сайте путей обучения отображается веб-часть "пути для обучения"
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956565"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233751"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Расположение веб-части схем обучения Microsoft 365 
 
@@ -31,11 +32,11 @@ ms.locfileid: "37956565"
 
 - На домашней странице "пути для обучения" выберите пункт **начать работу с Microsoft Teams**.
 
-![кг-вхереисвп-теамс. png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
 - Откройте меню " **Главная** " в меню сайта "пути для обучения", чтобы вернуться на домашнюю страницу сайта.
 
-![кг-хомебтнмену. png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
 ## <a name="view-the-six-simple-steps-playlist"></a>Просмотр списка воспроизведения шести простых шагов
 
@@ -43,7 +44,7 @@ ms.locfileid: "37956565"
 
 - На домашней странице путей обучения щелкните **начать с шести простых шагов**. 
 
-![кг-вхереисвп-Сикс. png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>Просмотреть все обучающие материалы по Microsoft 365
 
@@ -51,7 +52,7 @@ ms.locfileid: "37956565"
 
 - На домашней странице "пути для обучения" щелкните **Microsoft 365 Training**. Откроется страница с веб-частью, настроенной на отображение всех категорий и подкатегорий, доступных из настраиваемого каталога обучения.
 
-![CG-whereiswp-O365. png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
 - Откройте меню " **Главная** " в меню сайта "пути для обучения", чтобы вернуться на домашнюю страницу сайта.
 
@@ -61,7 +62,7 @@ ms.locfileid: "37956565"
 
 - На начальной странице "пути для обучения" щелкните начало **работы с центром администрирования**. . 
 
-![кг-админсукцессцентервебпарт. png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - Откройте меню " **Главная** " в меню сайта "пути для обучения", чтобы вернуться на домашнюю страницу сайта.
 

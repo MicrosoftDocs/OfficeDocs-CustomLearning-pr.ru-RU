@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Часто задаваемые вопросы о планах обучения Microsoft 365
 ms.date: 02/10/2019
 description: Сведения о часто задаваемых вопросах для путей обучения Microsoft 365
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141372"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233541"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -19,7 +20,7 @@ ms.locfileid: "43141372"
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Каковы требования для установки Microsoft 365 Learnings в среду клиента?
 
-- SharePoint Online и сайты для общения включены.
+- Поддержка сайтов SharePoint Online и информационных сайтов.
 - Для установки необходимо, чтобы пользователь, который будет подготовлен к работе CLO365, был администратором клиента целевого клиента.
 - Клиент "Каталог приложений" должен быть доступен в параметре "Apps" центра администрирования SharePoint.
 - Если создается новый каталог приложений, для полного наполнения каталога приложений требуется время ожидания 30 минут или больше. При попытке подготовки путей для обучения Майкрософт 365 сразу после создания каталога приложений клиента будет возникать ошибка подготовки решения для образования путей. 
@@ -53,7 +54,7 @@ ms.locfileid: "43141372"
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Сколько времени потребуется для установки сайта в клиентской среде?
 
-В зависимости от тестирования установки он занимает менее 15 минут. Это не включает время, необходимое для настройки сайта в соответствие с вашими требованиями.
+В зависимости от тестирования установки он занимает менее 15 минут. Это не включает время настройки сайта в соответствии с вашими требованиями.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Является как Microsoft 365 Learning — это решение с открытым исходным кодом и какими последствиями?
 

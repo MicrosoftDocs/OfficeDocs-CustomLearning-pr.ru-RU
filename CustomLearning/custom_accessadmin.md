@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Администрирование путей обучения
 ms.date: 02/15/2019
 description: Доступ к настраиваемой странице "Администратор обучения" из веб-части или меню
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886948"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233331"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Доступ к странице "Администрирование путей обучения"
 
@@ -24,11 +25,11 @@ ms.locfileid: "37886948"
 1. На **начальной** странице Microsoft 365 Learnings, щелкните плитку **обучение Office 365** .
 2. Щелкните значок **Администрирование** в веб-части, как показано в следующем примере.  
 
-![кг-админаккбтн. png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Доступ из пункта меню "домой"
 Вместо того чтобы переходить к странице с веб-частью, администраторы могут получить доступ к странице администрирования из элемента меню **домашней** страницы SharePoint. 
 
 - На домашней странице Microsoft 365 Learning путей откройте меню **Главная** и выберите пункт **Администрирование обучения Майкрософт**.
 
-![кг-админаккмену. png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

@@ -1,11 +1,17 @@
 ---
-Title: ''
-ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Рекомендации по программе лидера по
+description: Зачем внедрять диски?
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fa20a40737159f97160526f61e73734923b5060d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055322"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233341"
 ---
 # <a name="why-put-effort-into-driving-adoption"></a>Зачем делать усилия по внедрению?  
 

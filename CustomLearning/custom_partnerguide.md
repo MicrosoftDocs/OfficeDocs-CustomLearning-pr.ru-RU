@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Программа ранних пользователей схем обучения Microsoft 365
 ms.date: 3/9/2019
 description: Программа ранних пользователей схем обучения Microsoft 365
-ms.openlocfilehash: 1245c6553ed20ae972bd7b7b2a78fdd273ffa440
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+ms.service: sharepoint online
+ms.openlocfilehash: 84839637d6acd45447b5c6c84ebdc9dbc9e98663
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38075973"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234131"
 ---
 # <a name="microsoft-365-learning-pathways-early-adopter-program"></a>Программа ранних пользователей схем обучения Microsoft 365
 
@@ -19,5 +20,5 @@ ms.locfileid: "38075973"
 - Аналитические сведения о планах 
 - Ранний доступ к руководствам по входящей миграции партнеров и инструментальным средствам 
 
-Бы? Зарегистрируйтесь, чтобы включить назначения для включения: [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP).   
+Бы? Зарегистрируйтесь, чтобы включить назначения для включения: [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP) .   
 

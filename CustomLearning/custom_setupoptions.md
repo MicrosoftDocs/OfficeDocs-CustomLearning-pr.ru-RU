@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Параметр установки для путей обучения
 ms.date: 07/16/2020
 description: Параметр установки для путей обучения
-ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.service: sharepoint online
+ms.openlocfilehash: 3246434cf450a17d324ce5b5afed5b9d7a4339ec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043221"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233971"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Параметры настройки для межязыковых путей обучения
 С выпуском многоязычных функций для сайтов SharePoint Online для общения, пути обучения теперь предлагают поддержку нескольких языков. Вы можете настроить пути обучения различными способами для удовлетворения потребностей Организации. Чтобы выбрать лучший путь для вашей организации, мы предоставили параметры настройки. 

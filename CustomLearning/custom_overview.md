@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Настройка схем обучения
 ms.date: 02/18/2019
 description: Настройка схем обучения
-ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: 56027e48917cbdeeb2187f87497f3281fff3c23a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886642"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234231"
 ---
 # <a name="customize-learning-pathways"></a>Настройка схем обучения
 
@@ -19,7 +20,7 @@ Microsoft 365 Learning путей предоставляет различные 
 - Создание настраиваемых списков воспроизведения и подкатегорий, специально разработанных для потребностей пользователя
 - Создавайте целевые страницы с контентом, отфильтрованным для поддержки бизнес-результатов, таких как внедрение Microsoft Teams, Outlook Mobile или совместная работа с Microsoft 365.
 
-![кг-интродуЦинг. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="requirements-and-permissions"></a>Требования и разрешения
 
@@ -28,7 +29,7 @@ Microsoft 365 Learning путей предоставляет различные 
 ### <a name="permissions-to-provision-learning-pathways"></a>Разрешения для подготовки путей обучения
 
 - Администратор клиента, который также называется глобальным администратором Office 365
-- Администратор семейства веб-сайтов SharePoint с разрешениями владельца для сайта
+- Администратор семейства веб-сайтов SharePoint с разрешениями владельца на сайте
 
 ### <a name="permissions-to-use-learning-pathways-administration-features"></a>Разрешения для использования средств администрирования путей обучения
 
@@ -37,7 +38,7 @@ Microsoft 365 Learning путей предоставляет различные 
 
 ### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>Разрешения на использование сайта обучающих путей в качестве пользователя
 
-- Разрешения пользователей Office 365, разрешения посетителей сайта SharePoint и выше
+- Разрешения пользователя Office 365 и разрешения посетителя сайта SharePoint или выше
 
 ## <a name="get-started-with-customization"></a>Начало работы с настройками
 После того, как вы убедитесь, что у вас есть необходимые разрешения на настройку сайта и веб-части, необходимо начать процесс настройки. 

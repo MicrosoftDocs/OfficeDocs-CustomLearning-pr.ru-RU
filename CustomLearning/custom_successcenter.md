@@ -4,23 +4,24 @@ ms.author: pkrebs
 title: Обучающие материалы — центр успешных административных путей
 ms.date: 10/24/2019
 description: Обучающие материалы — центр успешных административных путей
-ms.openlocfilehash: e0630f21c49a5a58f77f9e30d06b8a70086ce051
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 9d2a675289662dcf0e9042d7ac44e620ab71f653
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956614"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233901"
 ---
 # <a name="learning-pathways-admin-success-center"></a>Обучающие материалы — центр успешных административных путей
 
 Добро пожаловать в центр обучения по Microsoft 365 для администраторов. Центр администрирования "Администратор" предоставляет рекомендации и ресурсы, которые помогут вам спланировать, настроить, внедрять диски и оценить влияние развертывания путей обучения.
 
-![кг-сукцессцентер. png](media/cg-successcenter.png)
+![cg-successcenter.png](media/cg-successcenter.png)
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
-2.  Войдите с помощью имени пользователя и пароля.
+1.  Откройте веб-браузер и перейдите на сайт office.com или на страницу входа вашей организации. 
+2.  Войдите, указав имя пользователя и пароль.
 3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365, а затем выберите сайт. 
 
 ### <a name="get-started-with-the-admin-success-center"></a>Начало работы с центром администрирования

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Просмотр сайта и контента по умолчанию
 ms.date: 02/10/2019
 description: Изучите сайт путей обучения и контент по умолчанию
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726831"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234491"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Обзор сайта путей обучения
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726831"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
-2.  Войдите с помощью имени пользователя и пароля.
+1.  Откройте веб-браузер и перейдите на сайт office.com или на страницу входа вашей организации. 
+2.  Войдите, указав имя пользователя и пароль.
 3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365, а затем выберите сайт. 
 
-![кг-интродуЦинг. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>Обзор сайта путей обучения
 
@@ -35,7 +36,7 @@ ms.locfileid: "37726831"
 2.  Нажмите кнопку **Изменить**.
 3.  Наведите указатель мыши на изображение параметра справки и выберите команду **Изменить веб-часть**.
 
-![кг-едиселп. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 Инструкции по настройке страниц сайта приведены в разделе [Настройка сайта](custom_edithelp.md).
 
@@ -45,7 +46,7 @@ ms.locfileid: "37726831"
 1. Прокрутите страницу вниз, чтобы просмотреть все категории и подкатегории.
 2. Припустите бит. Щелкните несколько подкатегорий, а затем выберите несколько списков воспроизведения, чтобы узнать, как организуется обучение содержимому. 
 
-![кг-готоалл. png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 Инструкции по настройке веб-части "пути для обучения" приведены [в разделе Настройка обучающих интерфейсов](custom_overview.md).
 

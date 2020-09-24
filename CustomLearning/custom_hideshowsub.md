@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Скрытие и отображение подкатегорий
 ms.date: 02/18/2019
 description: Скрытие, отображение, редактирование и удаление подкатегорий
-ms.openlocfilehash: 239df48cd09997e7319b31be83ef1a5810f22c93
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: d6580c3919f373e88713266ef8c53070ae60f48d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886808"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234311"
 ---
 # <a name="hide-and-show-subcategories"></a>Скрытие и отображение подкатегорий
 
@@ -21,12 +22,12 @@ ms.locfileid: "37886808"
 2. В веб-части "курсы обучения Microsoft 365" щелкните значок Администрирование. 
 3. В левой области страницы выберите подкатегорию, а затем выберите эйебалл для подкатегории, чтобы скрыть ее. В этом примере скройте подкатегорию **Yammer** .  
 
-![кг-хидесубкат. png](media/cg-hidesubcat.png)
+![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
 ### <a name="verify-the-subcategory-is-hidden"></a>Убедитесь, что Подкатегория скрыта.
 - Чтобы убедиться, что Подкатегория скрыта, перейдите на вкладку браузер с загруженной странице **Начало работы с Microsoft 365** и обновите страницу. Теперь Подкатегория Yammer должна быть скрыта в категории продукты. 
 
-![кг-хидесубкатрефреш. png](media/cg-hidesubcatrefresh.png)
+![cg-hidesubcatrefresh.png](media/cg-hidesubcatrefresh.png)
 
 ## <a name="unhide-a-subcategory"></a>Отображение подкатегории 
 

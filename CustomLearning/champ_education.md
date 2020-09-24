@@ -1,11 +1,17 @@
 ---
-Title: ''
-ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Рекомендации по программе лидера по — специалист по внедрению служб
+description: Внедрение Office 365 с помощью наших рекомендаций по программе лидера по
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055418"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233481"
 ---
 # <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Проверка уровня подготовки — Станьте специалистом по внедрению служб
 
@@ -19,4 +25,4 @@ ms.locfileid: "32055418"
 
 Узнайте [больше о публикации](https://aka.ms/AdoptionCertAnnouncement) этого курса. 
 
-Присоединяйтесь к нашему интерактивному сообществу бизнес-пользователей и ИТ-специалистов https://aka.ms/DriveAdoption, изучающих рекомендации по внедрению. 
+Присоединяйтесь к нашему интерактивному сообществу бизнес-пользователей и ИТ-специалистов, изучающих рекомендации по внедрению https://aka.ms/DriveAdoption . 

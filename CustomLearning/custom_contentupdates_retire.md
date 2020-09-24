@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Обновления содержимого за ноябрь 2019 г.
 ms.date: 10/20/2019
 description: Microsoft 365 Learnings обновляет контент
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142215"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234711"
 ---
 # <a name="november-2019-content-updates"></a>Обновления содержимого за ноябрь 2019 г.
 Добро пожаловать в Office 365 Learning — обновление контента. Начиная с нашего обновления за ноябрь 2019, мы будем ежемесячно предоставлять обновленные сведения о каталоге обучающих путей. В случае обновления за ноябрь 2019: в каталог путей обучения добавлены новые подкатегории контента и списки воспроизведения. Дополнительные сведения о применении обновлений содержимого и управлении обновлением содержимого можно найти в статье [Управление обновлениями содержимого](custom_contentupdatesmanage.md).    

@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Настройка обучающих интерфейсов
 ms.date: 02/10/2019
 description: Узнайте о различных настройках, доступных при использовании настраиваемого обучения для Office 365
-ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.service: sharepoint online
+ms.openlocfilehash: 9869fa83625dfa1d9180e9e7561a40a1c5e3af53
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056321"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233741"
 ---
 # <a name="customize-the-training-experience"></a>Настройка обучающих интерфейсов
 
@@ -28,24 +29,24 @@ ms.locfileid: "32056321"
 
 ## <a name="customizing-web-pages"></a>Настройка веб-страниц
 
-Вы можете полностью настроить пользовательский веб-сайт обучения. Если вы не знакомы с созданием страниц на современных сайтах SharePoint Online, мы рекомендуем ознакомиться со статьей [Настройка сайта SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) в support.Office.com. 
+Вы можете полностью настроить пользовательский веб-сайт обучения. Если вы не знакомы с созданием страниц на современных сайтах SharePoint Online, мы рекомендуем ознакомиться со статьей [Настройка сайта SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) в support.Office.com. 
 
 ### <a name="customize-the-ask-questions-and-get-help-page"></a>Настройка страницы " **задать вопросы" и "получение справки** "
 
 В качестве отправной точки для настройки сайта выберите Задать вопросы и получите помощь в строке меню, а затем нажмите кнопку изменить в SharePoint, а затем измените изображения и ссылки. 
 
-![custom_ask. png](media/custom_ask.png)
+![custom_ask.png](media/custom_ask.png)
 
 ## <a name="customize-available-services"></a>Настройка доступных служб
 
-1.  Перейдите на страницу настраиваемого администрирования обучения на веб- ![сайте custom_admin. png](media/custom_admin.png)
+1.  Перейдите на страницу настраиваемого администрирования обучения на веб-сайте ![custom_admin.png](media/custom_admin.png)
 1. Выберите " **технология** ", чтобы просмотреть полный список служб, включенных в решение.
 1. Выберите технологию и **щелкните символ глаза** , чтобы скрыть это содержимое.  Чтобы показать содержимое в интерфейсе, щелкните символ глаза еще раз. 
 ![собственный](media/custom_techlist.png)
 
 Один и тот же процесс можно повторять для категорий списков воспроизведения в интерфейсе.  Просто выберите параметр Категория, чтобы показать или скрыть списки воспроизведения. 
 
-![custom_cat. png](media/custom_cat.png)
+![custom_cat.png](media/custom_cat.png)
 
 ### <a name="next-steps"></a>Дальнейшие действия
 

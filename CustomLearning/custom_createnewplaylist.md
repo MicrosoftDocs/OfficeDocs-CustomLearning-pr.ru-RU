@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Создание новых списков воспроизведения
 ms.date: 02/18/2019
 description: Создание новых списков воспроизведения
-ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886822"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234531"
 ---
 # <a name="create-a-custom-playlist"></a>Создание настраиваемого списка воспроизведения
 
@@ -21,11 +22,11 @@ ms.locfileid: "37886822"
 2. Выберите подкатегорию значок **Администрирование**. В этом примере выберите **первые дни**.  
 3. Нажмите значок "+".  
 
-![кг-невплайлистбтн. png](media/cg-newplaylistbtn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.  Заполните поля в списке воспроизведения, как показано в следующем примере. В этом примере можно оставить значок по умолчанию. 
 
-![кг-невплайлистдетаилс. png](media/cg-newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
 5.  Закончив, нажмите кнопку **сохранить сведения**. 
 
@@ -33,10 +34,10 @@ ms.locfileid: "37886822"
 
 - На странице **настраиваемого администрирования обучения** щелкните список воспроизведения и выберите команду **изменить сведения**.  
 
-![кг-едитплайлист. png](media/cg-editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Удаление списка воспроизведения
 
 - На странице "пользовательское администрирование обучения" щелкните значок **удаления** для списка воспроизведения.  
 
-![кг-делетеплайлист. png](media/cg-deleteplaylist.png)
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

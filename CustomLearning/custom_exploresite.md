@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Просмотр сайта и контента по умолчанию
 ms.date: 02/10/2019
 description: Изучите сайт путей обучения и контент по умолчанию
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956546"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234451"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Обзор сайта путей обучения
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956546"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
-2.  Войдите с помощью имени пользователя и пароля.
+1.  Откройте веб-браузер и перейдите на сайт office.com или на страницу входа вашей организации. 
+2.  Войдите, указав имя пользователя и пароль.
 3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365, а затем выберите сайт. 
 
-![кг-експлоресите. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Обзор путей обучения Microsoft 365
 

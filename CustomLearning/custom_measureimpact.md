@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Оценка влияния путей обучения Microsoft 365
 ms.date: 02/10/2019
 description: Как измерить влияние путей обучения Microsoft 365
-ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+ms.service: sharepoint online
+ms.openlocfilehash: 30614a048871f298019246f4dfe3f6563ee33729
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076013"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234251"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Измерение влияния путей обучения Microsoft 365
 
@@ -19,9 +20,9 @@ ms.locfileid: "38076013"
 
 ## <a name="site-level-impact"></a>Влияние на уровень сайта
 
-Как владелец сайта SharePoint Online, вы можете просмотреть сведения о взаимодействии пользователей с сайтом. Например, вы можете увидеть количество людей, которые посещали сайт, сколько раз пользователи посещали сайт, а также список файлов, которые были получены большинством просмотров. Просмотр [подробных сведений о отчете](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
+Как владелец сайта SharePoint Online, вы можете просмотреть сведения о взаимодействии пользователей с сайтом. Например, вы можете узнать, сколько пользователей посетили сайт, сколько раз пользователи посетили сайт и какие файлы просматривались чаще всего. Просмотр [подробных сведений о отчете](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
 
-![кг-меасуреимпактрепорт. png](media/cg-measureimpactreport.png)
+![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>Влияние на уровень организации
 Отчет об использовании сайта SharePoint центра администрирования Office 365 позволяет администраторам получать высокоуровневое представление значения, которое вы получаете с настраиваемого сайта обучения Office 365, относительно всех остальных сайтов SharePoint. Просмотр [подробных сведений о отчете](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).

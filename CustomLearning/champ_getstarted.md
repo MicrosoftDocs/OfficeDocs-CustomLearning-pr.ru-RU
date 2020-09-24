@@ -1,11 +1,17 @@
 ---
-Title: ''
-ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Рекомендации по программе лидера по
+description: Внедрение Office 365 с помощью наших рекомендаций по программе лидера по
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: e60a9a1a392789f864aecd71804bbba174098d9a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055398"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233461"
 ---
 # <a name="establish-champions-for-user-adoption"></a>Установка лидеров для внедрения пользователей 
 

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Создание новой подкатегории
 ms.date: 02/17/2019
 description: Создание новой подкатегории с помощью путей для обучения
-ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 5469845594cdc3da2b8905475caa560d47624bac
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327260"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234521"
 ---
 # <a name="create-a-subcategory"></a>Создание подкатегории 
 В некоторых случаях необходимо создать новую подкатегорию. Например, если подкатегория "первые дни" не подходит для вашей организации, можно создать новую подкатегорию и добавить к ней списки воспроизведения для удовлетворения потребностей Организации. 
@@ -19,7 +20,7 @@ ms.locfileid: "34327260"
 3. Прокрутите страницу вниз, 
 3. Щелкните значок **Добавить новую подкатегорию и** значок.  
 
-![кг-невсубкатегори. png](media/cg-newsubcategory.png)
+![cg-newsubcategory.png](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Подкатегории, предоставленные корпорацией Майкрософт, могут быть скрыты, но не изменены или удалены. 

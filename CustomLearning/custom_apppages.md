@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Знакомство со страницами приложений в SharePoint
 ms.date: 02/15/2019
 description: Сведения о функциональных возможностях страниц приложений SharePoint в планах обучения Microsoft 365
-ms.openlocfilehash: fa0dc543e0f2302015a587040caf4bd09fe561ba
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: e6a97e771ce7ec5e72ca7a55c72bf753c8289be0
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886919"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234651"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Знакомство со страницами приложений в SharePoint
 
@@ -24,18 +25,18 @@ ms.locfileid: "37886919"
 
 ### <a name="view-customlearningadminaspx"></a>Просмотр Кустомлеарнингадмин. aspx
 
-1. Щелкните значок **Параметры** SharePoint, а затем выберите > **страницы сайта** **контент сайта**. 
+1. Щелкните значок **Параметры** SharePoint, а затем выберите **Site Contents**  >  **страницы сайта**контент сайта. 
 2. Щелкните **кустомлеарнингадмин. aspx**. 
 
-![кг-админапппаже. png](media/cg-adminapppage.png)
+![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## <a name="customlearningvieweraspx"></a>Кустомлеарнингвиевер. aspx
 На странице Кустомлеарнингвиевер. aspx представлено средство просмотра для отображения содержимого обучающих путей в веб-части. Например, если вы копируете ссылку на список воспроизведения и предоставляете к ней доступ к сотруднику, то при нажатии этой ссылки пользователь переходит на страницу средства просмотра и отображает связанный контент. 
 
 ### <a name="view-customlearningvieweraspx"></a>Просмотр Кустомлеарнингвиевер. aspx
 
-1. Щелкните значок **Параметры** SharePoint, а затем выберите > **страницы сайта** **контент сайта**. 
+1. Щелкните значок **Параметры** SharePoint, а затем выберите **Site Contents**  >  **страницы сайта**контент сайта. 
 2. Щелкните **кустомлеарнингвиевер. aspx**. 
 
-![кг-виеверапппаже. png](media/cg-viewerapppage.png)
+![cg-viewerapppage.png](media/cg-viewerapppage.png)
 

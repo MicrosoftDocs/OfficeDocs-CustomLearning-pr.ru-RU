@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Технология скрытия и отображения
 ms.date: 05/20/2019
 description: Как скрыть и показать технологию
-ms.openlocfilehash: e1e19bc29c84be9471939ab4c20a85207a828b61
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: 7644e4ee3c0f990cb31ccf30af261c0e137bf596
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886698"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234301"
 ---
 # <a name="hide-and-show-technology"></a>Скрытие и отображение технологии
 
@@ -22,12 +23,12 @@ ms.locfileid: "37886698"
 3. В раскрывающемся списке в правом верхнем углу страницы **Администрирование** выберите **технология**.
 В этом примере щелкните **Yammer** на левой панели страницы, а затем щелкните эйебалл рядом с Yammer.  
 
-![кг-хидетеч. png](media/cg-hidetech.png)
+![cg-hidetech.png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Проверка скрытости списка воспроизведения
 - Чтобы убедиться, что технология **Yammer** скрыта, перейдите на вкладку браузер с загруженной страницей " **списки воспроизведения** " и обновите страницу. Обратите внимание, что элемент **подключить к вашей организации с помощью** списка воспроизведения Yammer скрыт. 
 
-![кг-хидетечрефреш. png](media/cg-hidetechrefresh.png)
+![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
 ## <a name="unhide-a-technology"></a>Отображение технологии
 

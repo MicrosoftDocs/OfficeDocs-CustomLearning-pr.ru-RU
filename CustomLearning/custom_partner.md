@@ -4,12 +4,13 @@ ms.author: mikeholl
 title: Вопросы и ответы для партнеров
 ms.date: 3/9/2019
 description: Как Microsoft 365 Learning-пути сравниваются с партнерами из компаний, предоставляющих корпоративные учебные службы?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247804"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234151"
 ---
 # <a name="partner-frequently-asked-questions"></a>Часто задаваемые вопросы о партнерах
 

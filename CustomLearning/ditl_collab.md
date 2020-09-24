@@ -1,11 +1,17 @@
 ---
-название: ''
-ms.openlocfilehash: 2ba1045a3c8a74c8769b61647cdfeeba74efd357
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: 'День жизни Office 365: сотрудничество с коллегами'
+description: Быстрые действия, которые необходимо выполнить в день с Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055782"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233721"
 ---
 # <a name="collaborating-with-colleagues"></a>Сотрудничество с коллегами
 

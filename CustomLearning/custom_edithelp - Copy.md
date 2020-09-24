@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Настройка сайта путей обучения
 ms.date: 02/15/2019
 description: Узнайте о различных настройках, доступных в статье Microsoft 365 Learning путей
-ms.openlocfilehash: fce6819b5d54a5f551ae2264f7b0b7e3169b25cc
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887033"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234501"
 ---
 # <a name="customize-the-site"></a>Настройка сайта
 
@@ -20,7 +21,7 @@ ms.locfileid: "37887033"
 
 ## <a name="customize-the-site-and-web-pages"></a>Настройка сайта и веб-страниц
 
-Сайт путей для обучения является полностью настраиваемым. Если вы не знаете, как настраивать сайт или веб-страницы SharePoint, мы рекомендуем ознакомиться со статьей [Настройка сайта SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) в support.Office.com. 
+Сайт путей для обучения является полностью настраиваемым. Если вы не знаете, как настраивать сайт или веб-страницы SharePoint, мы рекомендуем ознакомиться со статьей [Настройка сайта SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) в support.Office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Настройка вопросов и получение справки
 
@@ -30,7 +31,7 @@ ms.locfileid: "37887033"
 2.  Нажмите кнопку **Изменить**.
 3.  Наведите указатель мыши на изображение параметра справки и выберите команду **Изменить веб-часть**.
 
-![кг-едиселп. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 4.  В поле **ссылка** введите URL-адрес для внутреннего ресурса. 
 5.  Повторите шаги 3 и 4 для остальных двух несвязанных изображений.

@@ -1,11 +1,17 @@
 ---
-Title: ''
-ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Рекомендации по программе лидера по — Find лидеров
+description: Внедрение Office 365 с помощью наших рекомендаций по программе лидера по
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055358"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233471"
 ---
 # <a name="finding-your-champions"></a>Поиск лидеров 
 
@@ -24,6 +30,6 @@ ms.locfileid: "32055358"
 
 У успешных программ лидера по есть руководитель и регулярное расписание для удовлетворения текущих проблем.  Ежемесячные собрания по крайней мере являются важной частью создания положительных языковых параметров в сообществе и поощрением роста.  
 
-Вы также можете использовать Microsoft Teams для создания концентратора для программы работы с лидеров.  В [этой статье](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)представлен пример структуры группы.
+Вы также можете использовать Microsoft Teams для создания концентратора для программы работы с лидеров.  В [этой статье](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)представлен пример структуры группы.
 
 ![вкладки команды "Совместная работа" лидера по](media/teams-adoption-tab-example.png)

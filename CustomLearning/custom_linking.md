@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Создание ссылок на ресурсы по обучающим планам Microsoft 365
 ms.date: 02/15/2019
 description: Как создать ссылку на ресурсы по обучающим планам Microsoft 365
-ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327280"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234321"
 ---
 # <a name="link-to-learning-pathways-content"></a>Ссылка на содержимое схем обучения
 
@@ -26,7 +27,7 @@ ms.locfileid: "34327280"
 2. Нажмите кнопку **изменить сведения** в одной из плиток домашней страницы. В этом примере мы редактируем плитку " **Рекомендуемые списки воспроизведения** ".
 3. В разделе **ссылка**нажмите кнопку **изменить**.
 
-![кг-линктопаже. png](media/cg-linktopage.png)
+![cg-linktopage.png](media/cg-linktopage.png)
 
 4. Нажмите кнопку **сайт**, а затем **страницы сайта**, выберите нужную страницу, а затем нажмите кнопку **Открыть**. В этом примере мы используем ссылку на страницу **креате-йоур-ОВН-експериенце. aspx** , рассмотренную в предыдущем разделе.
 5. Закройте окно свойств главный Имиджевый баннер, нажмите кнопку **опубликовать**, а затем проверьте ссылку. 
@@ -38,12 +39,12 @@ ms.locfileid: "34327280"
 2. Выберите **Microsoft Teams**, а затем выберите пункт **Введение в Microsoft Teams**.
 3. Щелкните значок **Копировать** .
 
-![кг-линктовебпарт. png](media/cg-linktowebpart.png)
+![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
 4. В меню веб-сайт путей обучения Microsoft 365 выберите пункт Домашняя страница.
 5. Вставьте скопированный URL-адрес в адресную строку браузера и нажмите клавишу ВВОД. 
 
 Как показано на следующем рисунке, ссылка отправляется на страницу Кустомлеарнингвиевер. aspx и отображает содержимое на основе параметров в скопированной ссылке. 
 
-![кг-линктовебпартвиевер. png](media/cg-linktowebpartviewer.png)
+![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

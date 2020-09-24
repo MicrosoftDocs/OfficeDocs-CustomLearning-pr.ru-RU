@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Преобразование пользовательских списков воспроизведения в обучающие материалы
+title: Перевод пользовательских плейлистов схем обучения
 ms.date: 07/06/2020
-description: Преобразование пользовательских списков воспроизведения в обучающие материалы
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Перевод пользовательских плейлистов схем обучения
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048137"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233921"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Преобразование пользовательских списков воспроизведения в обучающие материалы
+# <a name="translate-learning-pathways-custom-playlists"></a>Перевод пользовательских плейлистов схем обучения
 С помощью путей обучения работа с настраиваемыми списками воспроизведения зависит от способа настройки путей обучения.  
 
 - При подготовке нового многоязычного сайта для обучения вы можете скопировать или создать новый список воспроизведения и преобразовать его в языки, поддерживаемые сайтом.

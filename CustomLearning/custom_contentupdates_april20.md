@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234641"
+ms.locfileid: "48234815"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning — пути обновлений контента
 Учебные пути стремится придерживаться ежеквартального цикла обновления контента. Ниже приведен список обновлений контента за Апрель 2020.

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Переход на сайт путей обучения Microsoft 365
 ms.date: 02/18/2019
 description: Переход на сайт путей обучения Microsoft 365
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956626"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234381"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Переход на сайт путей обучения Microsoft 365
 
@@ -17,8 +18,8 @@ ms.locfileid: "37956626"
 
 ## <a name="sign-in"></a>Вход  
 
-1.  Откройте веб-браузер и перейдите в office.com или расположение для входа в организацию. 
-2.  Войдите с помощью имени пользователя и пароля.
+1.  Откройте веб-браузер и перейдите на сайт office.com или на страницу входа вашей организации. 
+2.  Войдите, указав имя пользователя и пароль.
 3.  Перейдите к расположению сайта, используя URL-адрес, предоставленный администратором клиента, или выберите SharePoint на домашней странице Office 365, а затем выберите сайт путей обучения Microsoft 365. 
 5. Щелкните плитку **обучение майкрософт 365** , чтобы просмотреть полный набор обучающих списков, доступных для учебных бюллетеней Microsoft 365. 
 

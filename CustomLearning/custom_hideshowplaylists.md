@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Скрытие и отображение списков воспроизведения
 ms.date: 10/27/2019
 description: Скрытие и отображение списков воспроизведения
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886668"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234331"
 ---
 # <a name="hide-and-show-playlists"></a>Скрытие и отображение списков воспроизведения
 
@@ -24,12 +25,12 @@ ms.locfileid: "37886668"
 2. В веб-части "пути для обучения" выберите значок **Администрирование** . 
 3. В левой области страницы **администрирования** выберите подкатегорию, а затем выберите эйебалл для списка воспроизведения, чтобы скрыть его. В этом примере выберите подкатегорию **Microsoft Teams** , а затем скройте список воспроизведения * * * * начать сеансы разговора, звонки и собрания * *.  
 
-![кг-хидеплайлист. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Проверка скрытости списка воспроизведения
 - Чтобы проверить, скрыт ли список воспроизведения, перейдите на вкладку браузер с загруженной странице **Начало работы с Office 365** и обновите страницу. Выберите Microsoft Teams. Теперь вы должны увидеть подкатегорию " **начать беседы, звонки и собрания** ". 
 
-![кг-хидеплайлистрефреш. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Отображение списка воспроизведения
 
