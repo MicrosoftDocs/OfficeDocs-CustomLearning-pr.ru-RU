@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Пути для обучения, Сентябрь 2020 обновлений контента
 ms.date: 9/21/2020
 description: Пути для обучения, Сентябрь 2020 обновлений контента
-ms.service: sharepoint online
-ms.openlocfilehash: d8f651515d22568f4ad0701d28f4c10a1104628a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 34f02a5edd691590d96058312213bc85083b2d56
+ms.sourcegitcommit: 769aad80e9bb63304550e416d438e809a7d78ab3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234811"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268511"
 ---
-# <a name="september-2020-content-updates"></a>Обновление содержимого за Сентябрь 2020
+# <a name="learning-pathways-september-2020-content-updates"></a>Пути для обучения, Сентябрь 2020 обновлений контента
 Учебные пути стремится придерживаться ежеквартального цикла обновления контента. Дополнительные сведения о применении обновлений содержимого и управлении обновлением содержимого можно найти в статье [Управление обновлениями содержимого](custom_contentupdatesmanage.md). В приведенном ниже списке представлены сведения о том, что в ходе обучения Microsoft 365 за Сентябрь 2020ся обновления. 
 
 ## <a name="security"></a>Безопасность

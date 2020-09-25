@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Обучающие материалы поменяют обновления контента
+title: Обучающие материалы по обновлениям контента Эйприл
 ms.date: 3/30/2020
 description: Обучающие материалы — Апрель 2020 обновлений контента
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234815"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261681"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning — пути обновлений контента
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 Learning — пути обновлений контента за Апрель
 Учебные пути стремится придерживаться ежеквартального цикла обновления контента. Ниже приведен список обновлений контента за Апрель 2020.
 
 ## <a name="april-2020-content-updates"></a>Обновление контента за Апрель 2020
@@ -29,7 +29,7 @@ Office 365 изменен в Microsoft 365. Изменение имени отр
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Работать удаленно (2 новых списков воспроизведения/11 новых активов)
 Новая Подкатегория "Удаленная работа" была добавлена в пути для обучения, которые работают со следующими списками воспроизведения и ресурсами: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![рабочие каналы для обучения работают в удаленном списке воспроизведения](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Работать удаленно (5 новых активов)
 - Удаленная разработка с помощью Office 365
