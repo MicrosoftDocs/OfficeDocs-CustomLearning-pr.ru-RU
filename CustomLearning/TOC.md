@@ -14,6 +14,7 @@
 ## [Перевод пользовательских плейлистов схем обучения](custom_translate_pl_ml.md)
 ## [Перевод имени сайта, навигации и нижнего колонтитула](custom_sitenamenav_ml.md)
 # [Центр успеха администраторов](custom_successcenter.md)
+## [Использование помощника для Teams со схемами обучения для развертывания Microsoft Teams](custom_teamsadvisor.md)
 ## Планирование учебного контента 
 ### [Планирование учебного контента](custom_plancontent.md)
 ### [Ресурсы для поддержки удаленных сотрудников](custom_plancontent_remoteresources.md)
