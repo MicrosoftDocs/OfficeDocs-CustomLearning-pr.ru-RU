@@ -3,39 +3,37 @@ author: pkrebs
 ms.author: pkrebs
 title: Руководство по внедрению для партнеров
 ms.date: 3/9/2019
-description: Руководство по входящей миграции партнеров для путей обучения Microsoft 365
+description: Руководство по добору партнеров для путей обучения Microsoft 365
 ms.service: sharepoint online
-ms.openlocfilehash: 1150a8235585c4ec4e3f3454d6c0739758548bf2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234101"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163036"
 ---
 # <a name="partner-onboarding-guide"></a>Руководство по внедрению для партнеров
-Начните работу с путей обучения, выполнив три действия, описанные ниже. С помощью трех шагов вы можете создать привлекательную демонстрацию, которую можно использовать для привлекательных презентаций с клиентами. 
+Начинай с путей обучения, следуя трем описанным ниже шагам. С помощью трех шагов можно создать убедительную демонстрацию, которую можно использовать для привлечения презентаций с клиентами. 
 
 ![cg-partner-getfam.png](media/cg-partner-getfam.png)
 
-## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Создание демонстрационной среды Microsoft 365
-Вы можете использовать demos.microsoft.com для создания демонстрационной среды, в которой можно подготовить службу, проверить ее и использовать для представления путей для обучения клиентам. Все партнеры имеют доступ к https://demos.microsoft.com этим целям. Вы можете использовать руководство по **началу работы** с Demos.Microsoft.com, если вы впервые используете демонстрационную среду.
+## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Создание среды демонстрации Microsoft 365
+Вы можете использовать demos.microsoft.com для создания демо-среды, в которой можно создать службу, проверить ее и использовать для предоставления клиентам путей обучения. Для этих целей все партнеры https://demos.microsoft.com имеют доступ. Вы можете использовать руководство demos.microsoft.com **по началу** работы, если вы не в новинку для демо-среды.
 
-## <a name="2-provision-microsoft-365-learning-pathways"></a>2. Подготовка путей для обучения Microsoft 365
-Вы можете подготовить пути для обучения с помощью службы подготовки SharePoint Online.
-- Чтобы подготовить пути для обучения, перейдите на страницу решения [Microsoft 365 Learning путей](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239) . Изучите [Параметры программы установки путей обучения](https://docs.microsoft.com/office365/customlearning/custom_setupoptions). 
-- Ознакомьтесь с [требованиями к решению](https://docs.microsoft.com/office365/customlearning/custom_provision) , так как это распространенные препятствия для новых клиентов SharePoint, которые могут не иметь все необходимые разрешения или конфигурацию среды, например каталог приложений клиента.
-- Попытайтесь развернуть решение с помощью роли, не являющейся администратором, чтобы ознакомиться со службой подготовки и обработки ошибок службы подготовки.
+## <a name="2-provision-microsoft-365-learning-pathways"></a>2. Подготовка путей обучения Microsoft 365
+Вы можете уделить время обучению с помощью службы предварительного обеспечения SharePoint Online.
+- Чтобы найти пути обучения, перейдите на страницу решения для путей обучения [Microsoft 365.](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239) Просмотрите [параметры настройки путей обучения.](./custom_setupoptions.md) 
+- Просмотрите [](./custom_provision.md) необходимые условия решения, так как это распространенные препятствия для клиента, нового для SharePoint, у которого могут быть не все необходимые разрешения или необходимая конфигурация среды, например каталог приложений для клиента.
+- Попробуйте развернуть решение с помощью роли не администратора, чтобы ознакомиться с службой обеспечения обработки ошибок и службой электронной почты.
 
-## <a name="3-explore-your-newly-provisioned-learning-pathways-site-to-get-familiar-with-its-capabilities"></a>3. Изучите свой новый сайт путей обучения, чтобы ознакомиться со своими возможностями
-[Изучите созданный сайт путей обучения](https://docs.microsoft.com/office365/customlearning/custom_exploresite) , чтобы ознакомиться с его возможностями. Ознакомьтесь со сведениями об обновлениях контента и компонентов, а также о планировании, настройке, внедрении и измерении влияния в [центре успешности администрирования](https://docs.microsoft.com/office365/customlearning/custom_successcenter) .
+## <a name="3-explore-your-newly-provisioned-learning-pathways-site-to-get-familiar-with-its-capabilities"></a>3. Ознакомьтесь с новым сайтом путей обучения, чтобы ознакомиться с его возможностями
+[Ознакомьтесь с новым сайтом путей](./custom_exploresite.md) обучения, чтобы ознакомиться с его возможностями. Просмотрите [Центр успеха администратора](./custom_successcenter.md) для получения сведений о обновлениях контента и функций, а также планировании, настройке, принятии и измерении рекомендаций по воздействию.
 
-## <a name="4-customize-the-learning-experience"></a>4. Настройка обучающих интерфейсов
-[Настройка интерфейса обучающих путей](https://docs.microsoft.com/office365/customlearning/custom_overview) путем работы с помощью следующих функциональных областей:
-- [Скрытие и отображение подкатегорий](https://docs.microsoft.com/office365/customlearning/custom_hideshowsub), [списков воспроизведения](https://docs.microsoft.com/office365/customlearning/custom_hideshowplaylists)и [технологий](https://docs.microsoft.com/office365/customlearning/custom_hideshowtech).
-- [Копирование списка воспроизведения](https://docs.microsoft.com/office365/customlearning/custom_copyplaylist)
-- [Создание настраиваемого списка воспроизведения](https://docs.microsoft.com/office365/customlearning/custom_createnewplaylist) — начиная с [страниц SharePoint](https://docs.microsoft.com/office365/customlearning/custom_createnewpage), [создания списка воспроизведения](https://docs.microsoft.com/office365/customlearning/custom_createnewplaylist), [добавления ресурсов](https://docs.microsoft.com/office365/customlearning/custom_addassets)и [создания подкатегорий](https://docs.microsoft.com/office365/customlearning/custom_createnewcat).
+## <a name="4-customize-the-learning-experience"></a>4. Настройка учебного процесса
+[Настройка работы с путями обучения,](./custom_overview.md) работая в следующих функциональных областях:
+- [Скрыть и показать подкатегории,](./custom_hideshowsub.md) [списки](./custom_hideshowplaylists.md)воспроизведения и [технологии](./custom_hideshowtech.md).
+- [Копирование списка воспроизведения](./custom_copyplaylist.md)
+- [Создайте настраиваемый плейлист](./custom_createnewplaylist.md) — начиная со страниц [](./custom_addassets.md) [SharePoint,](./custom_createnewpage.md)создания плейлистов, [](./custom_createnewplaylist.md)добавления активов и создания [подкатегорий.](./custom_createnewcat.md)
 
-## <a name="5-create-a-sample-learning-pathways-communication-campaign"></a>5. Создание примера кампании по обмену данными для обучения
-Создайте примерную кампанию для общения с обучающими материалами на основе [загружаемого комплекта для перехода](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip) и выделите содержимое, созданное на шаге 4. Эту возможность можно использовать при демонстрации полного взаимодействия с пользователем. 
-
-
+## <a name="5-create-a-sample-learning-pathways-communication-campaign"></a>5. Создание кампании коммуникации с примерами путей обучения
+Создайте пример коммуникационной кампании [](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip) путей обучения на основе загружаемого набора принятия и выделите настраиваемый контент, созданный в шаге 4. Вы можете использовать это при демонстрации полного клиентского опыта.
