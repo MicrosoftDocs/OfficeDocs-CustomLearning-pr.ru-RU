@@ -1,17 +1,19 @@
 ---
-title: День жизни Office 365 — в работе
-description: Быстрые действия, которые необходимо выполнить в день с Office 365
+title: Day in the Life with Office 365 - On Your Commute
+description: Действия, которые будут готовы к выходным дням с Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
+audience: itpro
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 65495b941f4c39c45d5e7818d0f1e54c6c10a217
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233671"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749347"
 ---
 # <a name="during-your-commute"></a>Во время вашей поездки
 
