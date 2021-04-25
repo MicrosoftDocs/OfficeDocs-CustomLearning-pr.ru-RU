@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Руководство по внедрению для партнеров
 ms.date: 3/9/2019
 description: Руководство по добору партнеров для путей обучения Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163036"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999425"
 ---
 # <a name="partner-onboarding-guide"></a>Руководство по внедрению для партнеров
 Начинай с путей обучения, следуя трем описанным ниже шагам. С помощью трех шагов можно создать убедительную демонстрацию, которую можно использовать для привлечения презентаций с клиентами. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![Диаграмма иллюстрирована процесс пятишаговой встраивкой.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Создание среды демонстрации Microsoft 365
 Вы можете использовать demos.microsoft.com для создания демо-среды, в которой можно создать службу, проверить ее и использовать для предоставления клиентам путей обучения. Для этих целей все партнеры https://demos.microsoft.com имеют доступ. Вы можете использовать руководство demos.microsoft.com **по началу** работы, если вы не в новинку для демо-среды.

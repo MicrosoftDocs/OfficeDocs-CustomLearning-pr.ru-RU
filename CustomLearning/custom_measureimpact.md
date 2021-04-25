@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Измерение влияния путей обучения Microsoft 365
 ms.date: 02/10/2019
 description: Измерение влияния путей обучения Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163046"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999535"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Измерение влияния путей обучения Microsoft 365
 
@@ -32,6 +32,6 @@ ms.locfileid: "51163046"
 2. Интерпретация сведений об использовании сайта SharePoint. Сортировать на поле URL-адрес сайта, чтобы легче определить свой сайт путей обучения Microsoft 365. 
 3. Используйте функции экспорта отчетов для более продвинутого анализа данных или если в организации более 2000 сайтов. 
 
-## <a name="feedback"></a>Отзывы
+## <a name="reporting"></a>Отчётность
 
 На сегодняшний день отчетность ограничивается уровнем сайта SharePoint. Одалживите свой голос нашему [форуму голосовых](https://go.microsoft.com/fwlink/?linkid=2109552) пользователей, чтобы помочь уравнять приоритеты запросов на расширенные функциональные возможности отчетности.

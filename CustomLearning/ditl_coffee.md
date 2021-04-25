@@ -1,17 +1,17 @@
 ---
-title: День жизни в Office 365 — утро кофе
-description: Быстрые действия, которые необходимо выполнить в день с Office 365
+title: День в жизни с Office 365 — утренний кофе
+description: Быстрые действия, которые будут готовы в течение дня с Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: f0249a5f86e3ba99d1e53e7e9dc51d8cb5007c11
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233701"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000105"
 ---
 # <a name="during-morning-coffee"></a>Во время утреннего кофе
 

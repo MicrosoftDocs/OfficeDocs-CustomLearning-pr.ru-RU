@@ -3,23 +3,26 @@ author: pkrebs
 ms.author: pkrebs
 title: Поиск
 ms.date: 02/10/2019
-description: Поиск в планах обучения Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Поиск в пути обучения Microsoft 365
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 3322ee9a4a659d15fdfbd9f05b5bb0e2f85e430c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234031"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999325"
 ---
-# <a name="search-for-microsoft-365-learning-pathways-content"></a>Поиск контента Microsoft 365 Learnings
+# <a name="search-for-microsoft-365-learning-pathways-content"></a>Поиск контента путей обучения Microsoft 365
 
-Microsoft 365 Learning путей предоставляет возможность поиска содержимого по подкатегории, списку воспроизведения или активу. 
+Пути обучения Microsoft 365 предоставляют возможность поиска контента по подкатегории, плейлисту или активу. 
 
 > [!TIP]
-> Microsoft 365 Learning путей Поиск осуществляется в соответствии с областью обучения, в том числе содержимым, предоставленным корпорацией Майкрософт, и любым содержимым, добавленным в настраиваемые списки воспроизведения или подкатегории. Страницы SharePoint, которые не находятся в списке воспроизведения, не включаются в результаты поиска.     
+> Поиск путей обучения Microsoft 365 имеет область охвата контента путей обучения, в том числе контента, предоставленного Корпорацией Майкрософт, и любого контента, добавленного в настраиваемые списки воспроизведения или подкатегории. Страницы SharePoint, не включенные в плейлист путей обучения, не включаются в результаты поиска.     
 
-- Щелкните значок " **Поиск** " и введите фразу для поиска. 
+- Щелкните **значок Поиска** и введите фразу Поиска. 
 
-![cg-search.png](media/cg-search.png)
+![Поиск веб-страницы.](media/cg-search.png)
 

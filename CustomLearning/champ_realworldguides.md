@@ -1,26 +1,26 @@
 ---
-title: Рекомендации по программе лидера по — реальные рекомендации
-description: Внедрение Office 365 с помощью наших рекомендаций по программе лидера по
+title: Рекомендации программы чемпиона — руководство по реальному миру
+description: Drive adoption of Office 365 with our Champion Program best practices
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 4a86a067f23e68f8b89294a9dd69f4ac06e93c1b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233411"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999885"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Практическое руководство по программе лидеров
+# <a name="real-world-guidance-for-your-champions-program"></a>Руководство по реальному миру для программы чемпионов
 
-Просмотрите эти видеоролики в настоящем руководстве по созданию программы лидеров.  
+Просмотреть эти видео руководства по реальному миру для создания программы чемпионов.  
 
-Симон Дентон, бизнес-архитектор в Мотт МакДоналд
+Simon Denton, Business Architect at Mott MacDonald
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Паунех Кауфман & Sara Буш от Microsoft IT обсуждают создание программы лидеров в корпорации Майкрософт
+Pouneh Kaufman & Sara Bush from Microsoft IT discuss building a Champions programme at Microsoft
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

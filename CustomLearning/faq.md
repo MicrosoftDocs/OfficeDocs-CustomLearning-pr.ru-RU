@@ -3,17 +3,14 @@ title: FaQ учебных путей Microsoft 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/10/2019
-ms.topic: article
-manager: alexb
-audience: itpro
-description: Часто задающие вопросы сведения для путей обучения Microsoft 365.
+description: Часто задающие вопросы сведения для путей обучения Microsoft 365
 ms.service: sharepoint-online
-ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: d91c2710315b393eb8be3645c4fa94b32d353aa7
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749407"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000085"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 

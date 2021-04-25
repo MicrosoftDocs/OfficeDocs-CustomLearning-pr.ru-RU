@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Ресурсы для поддержки удаленных сотрудников
 ms.date: 3/31/2020
 description: Ресурсы для поддержки удаленных сотрудников
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163016"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999415"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>Ресурсы для поддержки удаленных сотрудников
 В ответ на вспышку Covid-19 обновление контента за апрель 2020 г. предоставляет обучающие плейлисты и ресурсы, ориентированные на включение удаленной работы в организации. Мы добавили новый набор списков удаленного воспроизведения work, значительно обновили контент Microsoft Teams, особенно для собраний Teams, и добавили новый набор Office для веб-плейлистов. 

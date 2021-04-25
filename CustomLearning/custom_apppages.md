@@ -3,40 +3,40 @@ author: pkrebs
 ms.author: pkrebs
 title: Знакомство со страницами приложений в SharePoint
 ms.date: 02/15/2019
-description: Сведения о функциональных возможностях страниц приложений SharePoint в планах обучения Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: e6a97e771ce7ec5e72ca7a55c72bf753c8289be0
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Узнайте о функциональных возможностях страниц приложений SharePoint в программах обучения Microsoft 365
+ms.service: sharepoint-online
+ms.openlocfilehash: 85e28c2f8c280cc1f6f612cc85aeab41d5bc9a84
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234651"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999225"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Знакомство со страницами приложений в SharePoint
 
-Обучающие пути — это две страницы приложений SharePoint, которые необходимо знать как администратора. Эти две страницы не являются изменяемыми и не должны удаляться. 
+Пути обучения предоставляют две страницы приложения SharePoint, о чем следует знать как администратор. Эти две страницы не являются редактируемыми и не должны удаляться. 
 
-- Кустомлеарнингадмин. aspx
-- Кустомлеарнингвиевер. aspx
+- CustomLearningAdmin.aspx
+- CustomLearningViewer.aspx
 
-## <a name="customlearningadminaspx"></a>Кустомлеарнингадмин. aspx
+## <a name="customlearningadminaspx"></a>CustomLearningAdmin.aspx
 
-Страница Кустомлеарнингадмин. aspx предоставляет административные возможности для обучающих путей, в том числе скрытие и отображение контента, а также создание и изменение подкатегорий и списков воспроизведения. На этой странице и ее функциональных возможностях более подробно рассматриваются в последующих разделах.
+Страница CustomLearningAdmin.aspx содержит административные функции для путей обучения, включая сокрытие и отображение контента, а также создание и редактирование подкатегорий и списков воспроизведения. В более поздних разделах мы подробно окроем эту страницу и ее функциональные возможности.
 
-### <a name="view-customlearningadminaspx"></a>Просмотр Кустомлеарнингадмин. aspx
+### <a name="view-customlearningadminaspx"></a>Просмотр CustomLearningAdmin.aspx
 
-1. Щелкните значок **Параметры** SharePoint, а затем выберите **Site Contents**  >  **страницы сайта**контент сайта. 
-2. Щелкните **кустомлеарнингадмин. aspx**. 
+1. Щелкните значок **Параметры** SharePoint, а затем щелкните **страницы** сайтов  >  **содержимого сайта.** 
+2. Щелкните **CustomLearningAdmin.aspx**. 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
-## <a name="customlearningvieweraspx"></a>Кустомлеарнингвиевер. aspx
-На странице Кустомлеарнингвиевер. aspx представлено средство просмотра для отображения содержимого обучающих путей в веб-части. Например, если вы копируете ссылку на список воспроизведения и предоставляете к ней доступ к сотруднику, то при нажатии этой ссылки пользователь переходит на страницу средства просмотра и отображает связанный контент. 
+## <a name="customlearningvieweraspx"></a>CustomLearningViewer.aspx
+Страница CustomLearningViewer.aspx предоставляет зрителю возможность отображения содержимого путей обучения в веб-части. Например, если вы скопируете ссылку Playlist и поделитесь ее с коллегой, ссылка при нажатии на нее отберет пользователя на страницу Viewer и отображает связанное содержимое. 
 
-### <a name="view-customlearningvieweraspx"></a>Просмотр Кустомлеарнингвиевер. aspx
+### <a name="view-customlearningvieweraspx"></a>Просмотр CustomLearningViewer.aspx
 
-1. Щелкните значок **Параметры** SharePoint, а затем выберите **Site Contents**  >  **страницы сайта**контент сайта. 
-2. Щелкните **кустомлеарнингвиевер. aspx**. 
+1. Щелкните значок **Параметры** SharePoint, а затем щелкните **страницы** сайтов  >  **содержимого сайта.** 
+2. Щелкните **CustomLearningViewer.aspx**. 
 
 ![cg-viewerapppage.png](media/cg-viewerapppage.png)
 

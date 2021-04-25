@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Ручная настройка путей обучения
 ms.date: 07/06/2020
 description: Ручная настройка путей обучения Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 5cc2f641884871fcb33d6cf7ea0db885fcdbd019
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163076"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999615"
 ---
 # <a name="learning-pathways-manual-setup"></a>Ручная настройка путей обучения
 
@@ -39,7 +39,7 @@ ms.locfileid: "51163076"
 - Выполните сценарий PowerShell, который настроит клиента с помощью артефактов, от которых зависят пути обучения.
 - Перейдите на страницу сайта CustomLearningAdmin.aspx, чтобы загрузить веб-часть администратора для инициализации конфигурации настраиваемого контента.
 
-## <a name="prerequisites"></a>Необходимые компоненты
+## <a name="prerequisites"></a>Необходимые условия
 Чтобы обеспечить успешную ручную настройку веб-части учебных путей, необходимо добиться следующих необходимых условий. 
 
 - Необходимо настроить и настроить каталог приложений для всех клиентов. См. [раздел Настройка клиента Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) и раздел "Создание каталога приложений". 
