@@ -1,17 +1,18 @@
 ---
 title: Рекомендации программы чемпиона — руководство по реальному миру
-description: Drive adoption of Office 365 with our Champion Program best practices
+description: Руководство по реальному миру для программы чемпионов Microsoft 365.
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999885"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334583"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>Руководство по реальному миру для программы чемпионов
 

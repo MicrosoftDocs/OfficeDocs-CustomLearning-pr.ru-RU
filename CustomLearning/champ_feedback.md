@@ -1,17 +1,18 @@
 ---
 title: Лучшие практики программы чемпиона — сбор отзывов
-description: Drive adoption of Office 365 with our Champion Program best practices
+description: Лучшие практики для внедрения Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: afa2a593572af8fca059274e0bc36b1275870384
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: a4839b026037aa724aea9953d2a031558f01d30a
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000005"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334623"
 ---
 # <a name="collect-feedback-from-your-employees"></a>Сбор отзывов от сотрудников
 
@@ -30,4 +31,4 @@ ms.locfileid: "52000005"
 ## <a name="highlight-the-wins-share-showcases"></a>Выделение побед: демонстрации для обмена информацией
 Продолжая это путешествие, вы найдете витрины сотрудников, творчество которых с Office 365 удивит и порадует вас. Рекомендуем широко обмениваться этими витринами. Это поощрит других быть инновационными, обучить пользователей, которые могут быть ранее в кривой принятия, и вознаградить тех, кто удочерил время, чтобы продумать, как наилучшим образом использовать Office 365 в своей среде. Установка измеримой цели определения задатого количества демонстраций каждый квартал является полезной для поддержания импульса принятия.
 
-Поделитесь этими демонстрациями в лобковых сообществах, чтобы вдохновить других сотрудников и помочь им узнать преимущества Office 365.
+Поделитесь этими демонстрациями в общедоступных сообществах, чтобы вдохновить других сотрудников и помочь им узнать о преимуществах Office 365.
