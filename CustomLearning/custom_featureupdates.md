@@ -1,6 +1,19 @@
 ---
-автор: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 4/13/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online manager: bpardi ms.topic: article
-
+author: pkrebs
+ms.author: pkrebs
+title: Обновления функций для путей обучения
+ms.date: 4/13/2021
+description: Обновления функций для путей обучения
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: ee166cd113acd969efcf0fdec6626a1d6b00ec29
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575964"
+---
 # <a name="learning-pathways-version-40-feature-updates"></a>Обновления функций версии 4.0 для путей обучения
 Ниже представлены обновления функций для путей обучения версии 4.0.  
 
@@ -52,7 +65,7 @@
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Выбор изображений для настраиваемой подкатегории путей обучения 
 Теперь пути обучения предоставляют простой в использовании выборщик изображений для настраиваемого списка воспроизведения и подкатегорий.  В прошлых версиях можно изменить изображение для списка воспроизведения, но не подкатегорию.  
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статьях:
 - [Создайте настраиваемый плейлист](custom_createnewplaylist.md). 
 - [Создание подкатегории](custom_createnewcat.md)
 
